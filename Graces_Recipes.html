@@ -137,6 +137,7 @@ const state = {
   currentModalId: null,
 };
 
+// Stems a word to its base form for consistent ingredient matching
 function normalizeWord(w) {
   w = String(w).toLowerCase().trim();
   if (w.length > 3 && w.endsWith('ies')) w = w.slice(0,-3) + 'y';
@@ -149,10 +150,12 @@ function normalizeWord(w) {
 const STEM_TO_DISPLAY = {};
 INGREDIENT_OPTIONS.forEach(o => { STEM_TO_DISPLAY[o.stem] = o.display; });
 
+// Returns the human-readable display label for an ingredient stem
 function displayForStem(stem) {
   return STEM_TO_DISPLAY[stem] || stem.charAt(0).toUpperCase() + stem.slice(1);
 }
 
+// Counts how many recipes belong to each protein, category, and culture for filter pills
 function buildFacets() {
   const proteins = {};
   const categories = {};
@@ -167,6 +170,7 @@ function buildFacets() {
 }
 const FACETS = buildFacets();
 
+// Renders clickable filter pills (protein/category/culture) with recipe counts
 function renderPills(containerId, items, stateSet) {
   const c = document.getElementById(containerId);
   c.innerHTML = '';
@@ -184,6 +188,7 @@ function renderPills(containerId, items, stateSet) {
   });
 }
 
+// Renders the active ingredient filter chips with remove buttons
 function renderIngredientChips() {
   const c = document.getElementById('ingredientChips');
   c.innerHTML = '';
@@ -199,6 +204,7 @@ function renderIngredientChips() {
   });
 }
 
+// Returns the subset of recipes that match all active filters and search query
 function filterRecipes() {
   const q = state.search.toLowerCase().trim();
   return RECIPES.filter(r => {
@@ -225,6 +231,7 @@ function filterRecipes() {
   });
 }
 
+// Builds and displays the recipe card grid based on current filters
 function renderGrid() {
   const filtered = filterRecipes();
   const grid = document.getElementById('grid');
@@ -281,6 +288,7 @@ function renderGrid() {
   });
 }
 
+// Opens the recipe detail modal and populates it with the given recipe's data
 function openModal(id) {
   state.currentModalId = id;
   const r = RECIPES[id];
@@ -336,17 +344,20 @@ function openModal(id) {
   document.body.style.overflow = 'hidden';
 }
 
+// Closes the recipe detail modal and restores page scrolling
 function closeModal() {
   document.getElementById('modalBackdrop').classList.remove('open');
   document.body.style.overflow = '';
   state.currentModalId = null;
 }
 
+// Updates the serving size selection and refreshes the open modal
 function setServings(n) {
   state.servings = n;
   if (state.currentModalId !== null) openModal(state.currentModalId);
 }
 
+// Toggles a recipe's favorite status and persists to localStorage
 function toggleFavorite(id) {
   if (state.favorites.has(id)) state.favorites.delete(id);
   else state.favorites.add(id);
@@ -358,6 +369,7 @@ let shopConfigId = null;
 let shopConfigServings = 2;
 let shopConfigExcluded = new Set();
 
+// Removes a recipe from the shopping list, or opens the config modal to add it
 function toggleShopping(id) {
   if (state.shopping.has(id)) {
     state.shopping.delete(id);
@@ -374,6 +386,7 @@ function toggleShopping(id) {
   }
 }
 
+// Opens the shopping config modal, pre-deselecting ingredients already excluded in other added recipes
 function openShopConfig(id) {
   const r = RECIPES[id];
   if (!r) return;
@@ -402,11 +415,13 @@ function openShopConfig(id) {
   document.getElementById('shopConfigBackdrop').classList.add('open');
 }
 
+// Closes the shopping config modal without adding the recipe
 function closeShopConfig() {
   document.getElementById('shopConfigBackdrop').classList.remove('open');
   shopConfigId = null;
 }
 
+// Updates the serving count selection in the shopping config modal and refreshes the ingredient list
 function shopConfigSetServings(n) {
   shopConfigServings = n;
   document.getElementById('scSv2').classList.toggle('active', n === 2);
@@ -414,6 +429,7 @@ function shopConfigSetServings(n) {
   renderShopConfigIngList();
 }
 
+// Renders the ingredient checklist inside the shopping config modal
 function renderShopConfigIngList() {
   const r = RECIPES[shopConfigId];
   if (!r) return;
@@ -429,6 +445,7 @@ function renderShopConfigIngList() {
   }).join('');
 }
 
+// Toggles an ingredient's excluded/included state in the shopping config modal
 function shopConfigToggleIng(idx, checked) {
   if (checked) shopConfigExcluded.delete(idx);
   else shopConfigExcluded.add(idx);
@@ -436,6 +453,7 @@ function shopConfigToggleIng(idx, checked) {
   if (labels[idx]) labels[idx].classList.toggle('excluded', !checked);
 }
 
+// Saves the recipe to the shopping list with chosen servings and exclusions, then rebuilds the panel
 function confirmShopConfig() {
   if (shopConfigId == null) return;
   state.shopping.add(shopConfigId);
@@ -452,6 +470,7 @@ function confirmShopConfig() {
   renderShoppingPanel();
 }
 
+// Shows or hides the recipe count badge on the shopping list button
 function renderShoppingCount() {
   const el = document.getElementById('shoppingCount');
   if (state.shopping.size > 0) {
@@ -462,6 +481,7 @@ function renderShoppingCount() {
   }
 }
 
+// Renders the list of added recipes in the shopping panel, then triggers consolidation
 function renderShoppingPanel() {
   const body = document.getElementById('shoppingBody');
   if (state.shopping.size === 0) {
@@ -484,6 +504,7 @@ function renderShoppingPanel() {
   consolidateShoppingList();
 }
 
+// Merges ingredients across all added recipes, sums quantities, and copies the list to clipboard
 function consolidateShoppingList() {
   const groups = new Map();
   const servingNotes = [];
@@ -527,6 +548,7 @@ function consolidateShoppingList() {
   }
 }
 
+// Parses a quantity string (e.g. "1 1/2 cups") into a numeric value and unit
 function parseQty(s) {
   s = String(s || '').trim();
   if (!s || /to taste|to-taste|taste/i.test(s)) return { value: NaN, unit: 'to taste', original: s };
@@ -547,6 +569,7 @@ function parseQty(s) {
   return { value, unit: normalizeUnit(m[2]), original: s };
 }
 
+// Normalizes unit aliases to a canonical form (e.g. "tablespoon", "tbsps" → "TBSP")
 function normalizeUnit(u) {
   u = String(u || '').toLowerCase().trim();
   u = u.replace(/[.,]/g,'').trim();
@@ -571,6 +594,7 @@ function normalizeUnit(u) {
   return map[u] !== undefined ? map[u] : u;
 }
 
+// Formats a decimal number as a whole number or common fraction (e.g. 0.75 → "3/4")
 function formatNumber(n) {
   if (isNaN(n)) return '';
   if (Math.abs(n - Math.round(n)) < 0.01) return String(Math.round(n));
@@ -583,6 +607,7 @@ function formatNumber(n) {
   return n.toFixed(2).replace(/\.?0+$/,'');
 }
 
+// Sums a list of quantity strings by unit and returns a combined display string
 function combineQtyStrings(qtyList) {
   const byUnit = {};
   const unparsed = [];
@@ -611,6 +636,7 @@ function combineQtyStrings(qtyList) {
   return parts.join(' + ');
 }
 
+// Re-renders all filter pills, ingredient chips, recipe grid, and shopping count
 function renderAll() {
   renderPills('proteinPills', FACETS.proteins, state.proteins);
   renderPills('categoryPills', FACETS.categories, state.categories);
@@ -621,6 +647,7 @@ function renderAll() {
   document.getElementById('favBtn').classList.toggle('active', state.favoritesOnly);
 }
 
+// Escapes special HTML characters to prevent XSS when inserting user or recipe data into the DOM
 function escapeHtml(s) {
   if (s === null || s === undefined) return '';
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
@@ -630,6 +657,7 @@ function escapeHtml(s) {
 const ingInput = document.getElementById('ingredientInput');
 const ingSugg = document.getElementById('ingSuggestions');
 let suggFocusIdx = -1;
+// Updates the ingredient autocomplete dropdown based on the current input value
 function updateSuggestions() {
   const q = ingInput.value.toLowerCase().trim();
   if (!q) { ingSugg.style.display = 'none'; return; }
@@ -734,8 +762,11 @@ window.confirmShopConfig = confirmShopConfig;
 
 // ========= CUSTOM RECIPES =========
 const CUSTOM_KEY = 'hf_custom_recipes';
+// Loads user-added custom recipes from localStorage
 function loadCustomRecipes() { try { return JSON.parse(localStorage.getItem(CUSTOM_KEY) || '[]'); } catch(e) { return []; } }
+// Persists the custom recipes list to localStorage
 function saveCustomRecipesList(list) { localStorage.setItem(CUSTOM_KEY, JSON.stringify(list)); }
+// Derives a list of searchable ingredient keyword stems from a recipe's ingredient list
 function computeIngWordsFor(ingredients) {
   const stop = new Set(['and','the','of','a','with','contains','milk','wheat','fish','shellfish','eggs','soy','tree','nuts','peanut','to','taste','oil','salt','pepper','black','butter','olive']);
   const excludePats = ['stock','broth','bouillon','concentrate','spice blend','seasoning blend'];
@@ -749,6 +780,7 @@ function computeIngWordsFor(ingredients) {
   return [...ws].sort();
 }
 const BUILTIN_COUNT = RECIPES.length;
+// Syncs custom recipes from localStorage into the live RECIPES array and rebuilds facet counts
 function mergeCustomRecipes() {
   for (let i = RECIPES.length - 1; i >= BUILTIN_COUNT; i--) RECIPES.splice(i, 1);
   loadCustomRecipes().forEach((r, i) => {
@@ -769,6 +801,7 @@ const formBackdrop = document.getElementById('formBackdrop');
 const ingRowsEl = document.getElementById('ingRows');
 const stepRowsEl = document.getElementById('stepRows');
 const formError = document.getElementById('formError');
+// Opens the add/edit recipe form, pre-filling fields if editing an existing custom recipe
 function openRecipeForm(editId) {
   document.getElementById('editingId').value = editId === undefined ? '' : editId;
   document.getElementById('formTitle').textContent = editId === undefined ? 'Add a Recipe' : 'Edit Recipe';
@@ -799,7 +832,9 @@ function openRecipeForm(editId) {
   document.body.style.overflow = 'hidden';
   setTimeout(() => document.getElementById('f_name').focus(), 100);
 }
+// Closes the add/edit recipe form and restores page scrolling
 function closeRecipeForm() { formBackdrop.classList.remove('open'); document.body.style.overflow = ''; }
+// Appends a new ingredient input row to the recipe form, optionally pre-filled
 function addIngredientRow(prefill) {
   const row = document.createElement('div'); row.className = 'ing-row';
   const nm = prefill ? (prefill.clean_name || prefill.name || '') : '';
@@ -811,13 +846,16 @@ function addIngredientRow(prefill) {
     '<button type="button" class="row-remove" onclick="this.parentElement.remove()">&times;</button>';
   ingRowsEl.appendChild(row);
 }
+// Appends a new instruction step textarea to the recipe form, optionally pre-filled
 function addStepRow(prefill) {
   const row = document.createElement('div'); row.className = 'step-row';
   row.innerHTML = '<textarea placeholder="Step instructions...">'+escapeHtml(prefill || '')+'</textarea>'+
     '<button type="button" class="row-remove" onclick="this.parentElement.remove()">&times;</button>';
   stepRowsEl.appendChild(row);
 }
+// Displays a validation error message in the recipe form and scrolls it into view
 function showFormError(msg) { formError.textContent = msg; formError.classList.add('show'); formError.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }
+// Validates the recipe form, saves the new or edited custom recipe, and refreshes the grid
 function saveCustomRecipe() {
   const name = document.getElementById('f_name').value.trim();
   if (!name) return showFormError('Recipe name is required.');
@@ -869,6 +907,7 @@ function saveCustomRecipe() {
   closeRecipeForm();
   renderAll();
 }
+// Permanently removes a custom recipe from localStorage and refreshes the grid
 function deleteCustomRecipe(id) {
   if (!confirm('Delete this recipe? This cannot be undone.')) return;
   const customIdx = id - BUILTIN_COUNT;
@@ -917,6 +956,7 @@ mergeCustomRecipes();
 // =========================================================
 // DYNAMIC FILTERS — hide pills that would produce 0 results
 // =========================================================
+// Filters recipes while ignoring one facet type, used to calculate dynamic pill counts
 function filterRecipesExcludingFacet(facetKey) {
   const q = state.search.toLowerCase().trim();
   return RECIPES.filter(r => {
