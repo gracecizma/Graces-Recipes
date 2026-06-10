@@ -18,11 +18,7 @@ There's also an in-page **"Add a Recipe"** form for adding recipes through the U
 
 ## Adding a new recipe via code
 
-Recipes are stored as a JavaScript array inside `Graces_Recipes.html`. Look for the line:
-
-```javascript
-window.RECIPES = [{"name": "Chimichurri Barramundi", ...}, ...];
-```
+Recipes are stored as a JavaScript array inside `Graces_Recipes.html`, starting at **line 122**. Each recipe is its own block — search for `window.RECIPES = [` to jump straight there.
 
 Each recipe is one object in that array. Schema:
 
