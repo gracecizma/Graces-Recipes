@@ -83,7 +83,7 @@
       "FINISH & SERVE: Fluff couscous with a fork; season with salt and pepper. Toss carrots with remaining lemon zest. Divide couscous, carrots, and barramundi between plates. Top barramundi with chimichurri. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Barramundi"
+      "Seafood"
     ],
     "categories": [
       "Couscous"
@@ -102,7 +102,8 @@
       "garlic",
       "israeli",
       "lemon"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5edfb023df912542e8453f9d-115f4b4e-dd194c4b.jpg"
   },
   {
     "name": "Baja Barramundi",
@@ -200,7 +201,7 @@
       "FINISH & SERVE: Fluff quinoa with a fork; stir in scallion greens and 1 TBSP butter (2 TBSP for 4 servings) and season with salt and pepper. Divide between plates. Top quinoa with barramundi; garnish with salsa fresca and crema. Serve with remaining lime wedges."
     ],
     "proteins": [
-      "Barramundi"
+      "Seafood"
     ],
     "categories": [
       "Grain Bowl"
@@ -222,7 +223,8 @@
       "tomato",
       "turmeric",
       "white"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/622613357c9c171ebf1cab1c-ff95ba05.jpg"
   },
   {
     "name": "Smoky Barramundi with a Brown Butter Drizzle",
@@ -296,10 +298,10 @@
       "FINISH & SERVE: Divide mashed potatoes, barramundi, and broccoli between plates. Top barramundi with brown butter and sprinkle with scallion greens. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Barramundi"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood"
+      "Skillet Main"
     ],
     "cultures": [
       "Classic / Other"
@@ -317,7 +319,8 @@
       "smoked",
       "sour",
       "yukon"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/61cb2c8d1d2ee557c24f38f8-5ccc4b4a-14084d4a.jpg"
   },
   {
     "name": "Creamy Lemon Dill Salmon",
@@ -409,7 +412,7 @@
       "SERVE: Divide salmon between plates and drizzle with creamy lemon dill sauce. Sprinkle with a pinch of Za'atar Spice to taste. Serve bulgur salad next to salmon. Squeeze lemon juice from any remaining lemon wedges over top and serve."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
       "Grain Bowl"
@@ -434,7 +437,8 @@
       "spice",
       "tomato",
       "za"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/creamy-lemon-dill-salmon-b7ca71a8-0f4b86a5.jpg"
   },
   {
     "name": "Mustard Soy Salmon",
@@ -532,11 +536,10 @@
       "FINISH & SERVE: Fluff rice with a fork; stir in lime zest and 1 TBSP butter (2 TBSP for 4 servings), salt. Toss carrots with a squeeze of lime juice to taste and season with salt and pepper. Divide rice, carrots, and salmon between plates. Drizzle salmon with any remaining sauce. Top with pickled scallion whites, scallion greens, and sesame seeds. Drizzle salmon with sriracha as you like. Serve with remaining lime wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -560,7 +563,8 @@
       "vinegar",
       "white",
       "wine"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/6863c19d0203e9f8dbb4c6f8-8aaf7401.jpeg"
   },
   {
     "name": "Za'atar-Spiced Barramundi",
@@ -644,10 +648,10 @@
       "SERVE: Divide barramundi and chickpea salad between plates. Squeeze as much remaining lemon juice over barramundi as you like. Drizzle everything with yogurt sauce. Serve."
     ],
     "proteins": [
-      "Barramundi"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood"
+      "Sheet Pan"
     ],
     "cultures": [
       "Middle Eastern"
@@ -669,7 +673,8 @@
       "tsp",
       "yogurt",
       "za"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/zaatar-spiced-barramundi-85708f8b-00483b8b.jpg"
   },
   {
     "name": "Miso Ginger Barramundi",
@@ -773,10 +778,10 @@
       "FINISH & SERVE: Add roasted carrots and zucchini to bowl with chili oil and toss to coat. Remove plastic wrap. Divide barramundi and veggies between plates. Drizzle barramundi with as much sauce from pan as you like. Garnish with scallion greens. Serve any remaining sauce on the side."
     ],
     "proteins": [
-      "Barramundi"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -797,7 +802,8 @@
       "sesame",
       "sugar",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/miso-ginger-barramundi-93ae4ccf-44460691.jpg"
   },
   {
     "name": "BBQ Chicken Quesadillas",
@@ -899,7 +905,8 @@
       "sauce",
       "sour",
       "tortilla"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/bbq-chicken-quesadillas-8ba8a8b0-aa02dbf1.jpg"
   },
   {
     "name": "Che Buono Chicken Spaghetti",
@@ -1009,7 +1016,8 @@
       "spaghetti",
       "strip",
       "tomato"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/608023b47b3b15615c41dfa4-a72e05e1.jpg"
   },
   {
     "name": "Chicken Penne Limone",
@@ -1114,7 +1122,8 @@
       "sauce",
       "strip",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/penne-limone-with-chicken-af83edc0-2b50a735.jpg"
   },
   {
     "name": "Creamy Chicken & Mushroom Cavatappi",
@@ -1225,7 +1234,8 @@
       "scallion",
       "seasoning",
       "strip"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5e877f5413114d7b1f44174e-f97c652c-9b81425e.jpg"
   },
   {
     "name": "Tuscan Chicken over Bulgur Pilaf",
@@ -1342,7 +1352,8 @@
       "vinegar",
       "yellow",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/tuscan-chicken-over-bulgur-586f4be3-6e146eb1.jpg"
   },
   {
     "name": "BBQ Ranch Chicken Flatbreads",
@@ -1431,7 +1442,8 @@
       "sauce",
       "strip",
       "white"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/bbq-ranch-chicken-flatbreads-75bb7930.jpg"
   },
   {
     "name": "Creamy Dill Chicken",
@@ -1525,7 +1537,8 @@
       "potato",
       "sour",
       "yukon"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/605a4458d01b8e158a19db53-35d08577-74a1c522.jpg"
   },
   {
     "name": "Apricot-Sumac Chicken",
@@ -1647,7 +1660,8 @@
       "sliced",
       "sumac",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/apricot-sumac-chicken-4354d2fc.jpg"
   },
   {
     "name": "Blackened Chicken Penne",
@@ -1773,7 +1787,8 @@
       "spice",
       "strip",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/blackened-chicken-penne-99566c2a.jpg"
   },
   {
     "name": "Yucatán Citrus Chicken Bowls",
@@ -1808,10 +1823,10 @@
         "clean_name": "Yellow Onion"
       },
       {
-        "name": "Lemon",
+        "name": "Lime",
         "qty2": "1",
         "qty4": "1",
-        "clean_name": "Lemon"
+        "clean_name": "Lime"
       },
       {
         "name": "Chicken Breast Strips",
@@ -1863,18 +1878,18 @@
       }
     ],
     "instructions": [
-      "PREP & MARINATE CHICKEN: Wash and dry produce. Halve mandarin, zest and quarter lemon. Halve, peel, and thinly slice onion. Roughly chop cilantro. Pat chicken dry with paper towels. Toss with Tex-Mex paste, juice from one mandarin wedge, lemon juice from one lemon wedge, half the Southwest Spice, and half the lemon zest in a medium bowl. (You'll use the rest later.)",
+      "PREP & MARINATE CHICKEN: Wash and dry produce. Halve mandarin, zest and quarter lime. Halve, peel, and thinly slice onion. Roughly chop cilantro. Pat chicken dry with paper towels. Toss with Tex-Mex paste, juice from one mandarin wedge, lime juice from one lime wedge, half the Southwest Spice, and half the lime zest in a medium bowl. (You'll use the rest later.)",
       "COOK RICE: In a small pot, combine rice, 3/4 cup water (1.5 cups for 4 servings), and a big pinch of remaining Southwest Spice and salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve.",
-      "PICKLE ONION & MIX CREMA: While rice cooks, in a small microwave-safe bowl, combine 3/4 of the onion, juice from two lemon wedges (1/4 tsp for 4 servings), and a pinch of sugar and salt. Microwave until onion is softened, 1 minute. Set aside. In a separate small bowl, combine sour cream, a pinch of cream paprika, and a pinch of salt. Add water 1 tsp at a time until mixture reaches a drizzling consistency. Set aside.",
+      "PICKLE ONION & MIX CREMA: While rice cooks, in a small microwave-safe bowl, combine 1/4 of the onion, juice from half the lime, 1/4 tsp sugar (1/2 tsp for 4 servings), and a pinch of salt. Microwave until onion is softened, 1 minute. Set aside. In a separate small bowl, combine sour cream, a pinch of smoked paprika, and a pinch of salt. Add water 1 tsp at a time until mixture reaches a drizzling consistency. Set aside.",
       "COOK VEGGIES: Heat a drizzle of oil in a large pan over medium-high heat. Add poblano and remaining onion; season with salt and pepper. Cook, stirring, until slightly softened, 3-4 minutes. Add cauliflower rice and remaining Southwest Spice; cook, stirring occasionally, until veggies are tender, 3-5 minutes more. Stir in 1/4 cup water; cook stirring. Season with salt and pepper and remove pan.",
       "COOK CHICKEN: Heat a drizzle of oil in same pan over medium-high heat. Add chicken in a single layer and cook, stirring occasionally, until lightly charred and cooked through, 4-6 minutes. Add a pinch of chili powder to taste. Taste and season with salt and pepper; then remove from pan.",
-      "FINISH & SERVE: Fluff rice with a fork; stir in 1 TBSP butter and season with salt to taste. Divide rice between bowls and top with chicken and veggies. Sprinkle with as much pickled onion (draining first) as you like. Halve and sprinkle with cilantro, crema, and as much remaining lemon wedge and serve on the side."
+      "FINISH & SERVE: Fluff rice with a fork; stir in 1 TBSP butter and season with salt to taste. Divide rice between bowls and top with chicken and veggies. Sprinkle with as much pickled onion (draining first) as you like. Halve and sprinkle with cilantro, crema, and as much remaining lime wedge and serve on the side."
     ],
     "proteins": [
       "Chicken"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Latin American",
@@ -1888,7 +1903,7 @@
       "cilantro",
       "cream",
       "jasmine",
-      "lemon",
+      "lime",
       "mandarin",
       "mex",
       "onion",
@@ -1905,7 +1920,8 @@
       "tex",
       "tsp",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yucatan-citrus-chicken-bowls-7773a8da-1d5fe157.jpg"
   },
   {
     "name": "Turkish-Spiced Chicken in Apricot Pan Sauce",
@@ -1935,7 +1951,7 @@
       },
       {
         "name": "Sliced Almonds (Contains: Tree Nuts)",
-        "qty2": "1/4 oz",
+        "qty2": "1/2 oz",
         "qty4": "1 oz",
         "clean_name": "Sliced Almonds"
       },
@@ -1989,8 +2005,8 @@
       }
     ],
     "instructions": [
-      "PREP: Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Trim, peel, and cut carrots into sticks (like fries; ours were 3 inches long and 3/4 inch thick). Trim and thinly slice scallions, separating whites from greens. Zest and quarter lemon.",
-      "ROAST CARROTS: Toss carrots on a baking sheet with a drizzle of olive oil, 3/4 tsp harissa powder (1.5 tsp for 4 servings), and a big pinch of salt and pepper. (Be sure to measure the harissa powder — we sent more.) Line your baking sheet with foil or parchment paper for easy cleanup. Roast on top rack until lightly browned before adding the carrots. TIP: Give the carrots a taste after roasting and add a pinch more harissa powder if you like things spicy.",
+      "PREP: Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Trim, peel, and cut carrots into sticks (like fries; ours were 3 inches long and 1/3 inch thick). Trim and thinly slice scallions, separating whites from greens. Zest and quarter lemon.",
+      "ROAST CARROTS: Toss carrots on a baking sheet with a drizzle of olive oil, 1/4 tsp harissa powder (1/2 tsp for 4 servings), and a big pinch of salt and pepper. (Be sure to measure the harissa powder — we sent more.) TIP: For easy cleanup, line your baking sheet with foil or parchment paper before adding the carrots. Roast on top rack until lightly browned and tender, 15-20 minutes. TIP: Give the carrots a taste after roasting and add a pinch more harissa powder if you like things spicy.",
       "TOAST NUTS & COOK RICE: Meanwhile, heat a small dry pot over medium-high heat. Add almonds and cook, stirring occasionally, until lightly toasted, 2-4 minutes. Turn off heat; transfer to a small bowl. Wipe out pot. In same pot over medium-high heat, add half the scallion whites and cook, stirring occasionally, until just softened, 1 minute. Stir in rice and 3/4 cup water (1.5 cups for 4 servings); season with salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-20 minutes. Keep covered off heat until ready to serve.",
       "COOK CHICKEN: While rice cooks, pat chicken dry with paper towels; season all over with half the Turkish Spice (all for 4 servings), salt, and pepper. Heat a drizzle of olive oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 3-5 minutes per side. Turn off heat; transfer chicken to a plate to rest. Wipe out pan.",
       "MAKE SAUCE: Heat a drizzle of olive oil in same pan over medium heat. Add remaining scallion whites; cook, stirring, until softened, 1 minute. Stir in jam, stock concentrate, 1/4 cup water (1/3 cup for 4 servings), and a squeeze of lemon juice. Simmer until thickened, 3-5 minutes more. Turn off heat; stir in 1 TBSP butter (2 TBSP for 4) until melted. Taste and season with salt and pepper. TIP: Stir in a splash more water if sauce seems too thick.",
@@ -2000,7 +2016,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Middle Eastern"
@@ -2019,7 +2035,8 @@
       "rice",
       "scallion",
       "sliced"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6138d8d05acb2c613858e349-be339f82.jpg"
   },
   {
     "name": "Chicken Tabbouleh Bowls",
@@ -2073,8 +2090,8 @@
       },
       {
         "name": "Sour Cream (Contains: Milk)",
-        "qty2": "1.75 TBSP",
-        "qty4": "3 TBSP",
+        "qty2": "2 TBSP",
+        "qty4": "4 TBSP",
         "clean_name": "Sour Cream"
       },
       {
@@ -2097,12 +2114,12 @@
       }
     ],
     "instructions": [
-      "PREP: Wash and dry produce. Zest and quarter lemon. Trim and finely dice cucumber. Finely slice tomato. Trim and thinly slice scallions. Finely chop cilantro.",
-      "COOK BULGUR: In a small pot, combine bulgur, 3/4 cup water, 1 tsp harissa powder (you'll use more later), and 1/2 tsp salt. (For 4 servings, use 2 cups water and 1/2 tsp salt.) Bring to a boil, then cover and reduce to a low simmer. Cook until water has absorbed and bulgur is tender, 12-15 minutes. Keep covered off heat until ready to use in step 5.",
-      "MAKE FETA SAUCE: Meanwhile, in a small bowl, combine 2 TBSP feta (4 TBSP for 4 servings), sour cream, 2 TBSP olive oil (4 TBSP for 4), and a large drizzle of olive oil. Add water 1 tsp at a time until mixture reaches a drizzling consistency. Season with salt and pepper.",
-      "COOK CHICKEN: Pat chicken dry with paper towels. Season all over with 3/4 tsp harissa powder (1 tsp for 4 servings), salt, and pepper. (Use more harissa powder if you like things spicy.) Heat a large drizzle of olive oil in a large pan over medium pan over medium-high heat. Add chicken and cook until browned and cooked through, 3-5 minutes per side. TIP: If chicken begins to brown too quickly, lower heat to medium. Transfer to a cutting board to rest 5 minutes.",
-      "MAKE TABBOULEH: Meanwhile, squeeze juice from half a lemon into a large bowl. Whisk in 2 TBSP olive oil and 1/4 tsp lemon zest. (For 4 servings, use juice from 1 whole lemon, 4 TBSP olive oil, and 1/2 tsp lemon zest.) If necessary, drain any excess water from cooked bulgur; stir bulgur along with cucumber, tomato, scallions, half the cilantro, and remaining feta. Taste and season with salt and pepper.",
-      "FINISH & SERVE: Thinly slice chicken crosswise. Divide tabbouleh between bowls or plates. Top with chicken. Drizzle with feta sauce and sprinkle with remaining cilantro. Serve with remaining lemon wedges on the side."
+      "PREP: Wash and dry produce. Zest and quarter lemon. Trim and finely dice cucumber. Finely dice tomato. Trim and thinly slice scallions. Finely chop cilantro.",
+      "COOK BULGUR: In a small pot, combine bulgur, 1 cup water, 1/2 tsp harissa powder (you'll use more later), and 1/2 tsp salt. (For 4 servings, use 2 cups water, 1 tsp harissa powder, and 1 tsp salt.) Bring to a boil, then cover and reduce to a low simmer. Cook until water has absorbed and bulgur is tender, 12-15 minutes. Keep covered off heat until ready to use in step 5.",
+      "MAKE FETA SAUCE: Meanwhile, in a small bowl, combine sour cream, 2 TBSP feta (4 TBSP for 4 servings), and a large drizzle of olive oil. (You'll use the remaining feta later.) Add water 1 tsp at a time until mixture reaches a drizzling consistency. Season with salt and pepper.",
+      "COOK CHICKEN: Pat chicken dry with paper towels. Season all over with 1/2 tsp harissa powder (1 tsp for 4 servings), salt, and pepper. (Use more harissa powder if you like things spicy.) Heat a large drizzle of olive oil in a medium pan (use a large pan for 4) over medium-high heat. Add chicken and cook until browned and cooked through, 3-5 minutes per side. TIP: If chicken begins to brown too quickly, lower heat to medium. Transfer to a cutting board to rest 5 minutes, then thinly slice crosswise.",
+      "MAKE TABBOULEH: Meanwhile, squeeze juice from half the lemon into a large bowl. Whisk in lemon zest, 2 TBSP olive oil, and 1/4 tsp salt. (For 4 servings, use juice from 1 whole lemon, 4 TBSP olive oil, and 1/2 tsp salt.) If necessary, drain any excess water from cooked bulgur; stir bulgur into bowl with dressing along with cucumber, tomato, scallions, half the cilantro, and remaining feta. Taste and season with salt and pepper.",
+      "FINISH & SERVE: Divide tabbouleh between bowls or plates. Top with chicken. Drizzle with feta sauce and sprinkle with remaining cilantro. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
       "Chicken"
@@ -2129,7 +2146,8 @@
       "scallion",
       "sour",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-tabbouleh-bowls-8b376b2d-230543c6.jpg"
   },
   {
     "name": "Paprika Chicken in a Lemony Sauce",
@@ -2213,7 +2231,7 @@
       }
     ],
     "instructions": [
-      "PREP: Adjust rack to top position and preheat oven to 425°F. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into 3/4-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens. Strip thyme leaves (2 tsp for 4 servings) from stems; finely chop leaves. Zest and quarter lemon.",
+      "PREP: Adjust rack to top position and preheat oven to 425°F. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens. Strip thyme leaves (2 tsp for 4 servings) from stems; finely chop leaves. Zest and quarter lemon.",
       "ROAST CARROTS: Toss carrots on a baking sheet with a drizzle of olive oil, salt, and pepper. Roast on top rack until golden brown and tender, 20-25 minutes.",
       "COOK RICE: While carrots roast, heat a drizzle of oil in a small pot over medium-high heat. Add scallion whites; cook, stirring occasionally, until just softened, 1 minute. Add pistachios and cook, stirring occasionally, until lightly toasted, 2-4 minutes. Wipe out pot. In same pot over medium-high heat, add half the scallion whites; cook until just softened. Stir in rice and 3/4 cup water (1.5 cups for 4); add a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve.",
       "COOK CHICKEN: While rice cooks, pat chicken dry with paper towels; season all over with paprika, salt, and pepper. Heat a large drizzle of olive oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 3-5 minutes per side. TIP: If chicken begins to brown too quickly, lower heat to medium. Turn off heat; transfer to a plate. Wipe out pan.",
@@ -2224,7 +2242,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Classic / Other"
@@ -2242,7 +2260,8 @@
       "scallion",
       "sour",
       "thyme"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6076d4a9912d7429ec352547-7f742805.jpg"
   },
   {
     "name": "Za'atar-Spiced Chicken",
@@ -2250,7 +2269,7 @@
     "subtitle": "with Bulgur-Stuffed Roasted Tomatoes & Lemon Garlic Yogurt Sauce",
     "prep_time": "10 min",
     "cook_time": "35 min",
-    "calories": "610",
+    "calories": "440",
     "ingredients": [
       {
         "name": "Chicken Cutlets",
@@ -2332,7 +2351,7 @@
       }
     ],
     "instructions": [
-      "PREP: Adjust rack to top position and preheat oven to 450°F. Wash and dry produce. Halve, peel, and dice onion into 3/4-inch pieces. Peel and mince or grate garlic. Strip thyme leaves from stems. Trim and thinly slice scallions, separating whites from greens. Halve lemon. Finely chop parsley. Halve tomatoes lengthwise; scoop out insides with a spoon, discard seeds with a spoon. Pat insides dry with paper towels. TIP: If water pools in tomato halves after roasting, carefully blot dry.",
+      "PREP: Adjust rack to top position and preheat oven to 450°F. Wash and dry produce. Halve, peel, and dice onion into 3/4-inch pieces; mince a few pieces until you have 2 TBSP (4 TBSP for 4 servings). Peel and mince or grate garlic (reserve a pinch for step 3). Zest and quarter lemon. Halve tomatoes lengthwise; scoop out and discard seeds with a spoon. Pat insides dry with paper towels. Finely chop parsley. TIP: If water pools in tomato halves after roasting, carefully blot dry.",
       "COOK BULGUR: Heat a drizzle of oil in a small pot over medium-high heat. Add minced onion, remaining garlic, and a pinch of salt; cook, stirring, until fragrant, 30 seconds. Add bulgur; cook, stirring, until lightly toasted, 1-2 minutes. Stir in stock concentrates and 1 cup water (2 cups for 4 servings), and 1/4 tsp salt. Cover, bring to a boil, then reduce to a low simmer. Cook until water has absorbed and bulgur is tender, 12-15 minutes. Keep covered off heat until ready to serve.",
       "MAKE SAUCE: In a small bowl, combine yogurt, reserved garlic, sour cream, a squeeze of lemon juice, and a big pinch of lemon zest. Add water 1 tsp at a time until mixture reaches a drizzling consistency. Season with salt and pepper.",
       "ROAST VEGGIES: Toss diced onion on one side of a baking sheet with a drizzle of oil, half the Za'atar Spice, and pepper. Place tomatoes, cut sides up, on empty side of sheet; season with a big pinch of salt, half the Za'atar Spice, and remaining garlic. Roast on top rack until tomatoes are softened slightly but still retain their shape, 6-8 minutes.",
@@ -2366,10 +2385,11 @@
       "tomato",
       "yogurt",
       "za"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/za-atar-crusted-chicken-39e6b94c-987bb777.jpg"
   },
   {
-    "name": "One-Pan Easy Bean 'N' Cheesy Chicken Quesadillas",
+    "name": "Easy Bein' Cheesy Chicken Quesadillas",
     "section": "🐔  Chicken & Poultry",
     "subtitle": "with Smoky Red Pepper Crema",
     "prep_time": "5 min",
@@ -2408,8 +2428,8 @@
       },
       {
         "name": "Pepper Jack Cheese (Contains: Milk)",
-        "qty2": "1/4 cup",
-        "qty4": "1/2 cup",
+        "qty2": "1/2 cup",
+        "qty4": "1 cup",
         "clean_name": "Pepper Jack Cheese"
       },
       {
@@ -2419,10 +2439,10 @@
         "clean_name": "Monterey Jack Cheese"
       },
       {
-        "name": "Sour Cream (Contains: Milk)",
-        "qty2": "4 TBSP",
-        "qty4": "8 TBSP",
-        "clean_name": "Sour Cream"
+        "name": "Hot Sauce",
+        "qty2": "1 tsp",
+        "qty4": "2 tsp",
+        "clean_name": "Hot Sauce"
       },
       {
         "name": "Oil, salt, pepper",
@@ -2435,7 +2455,7 @@
       "PREP SCALLIONS: Wash and dry produce. Trim and thinly slice scallions, separating whites from greens.",
       "COOK FILLING: Pat chicken dry with paper towels. Thinly slice crosswise into strips. Heat a drizzle of oil in a medium pan over medium-high heat. Add chicken, scallion whites, and Southwest Spice; season with salt and pepper. Cook until chicken is warmed through and scallions are slightly softened, 2-3 minutes. Turn off heat; remove from pan. Wash out pan.",
       "ASSEMBLE QUESADILLAS: Place tortillas on a clean work surface. Evenly sprinkle pepper jack onto one half of each tortilla. Top with chicken filling, then sprinkle with Monterey Jack. Fold tortillas in half to create quesadillas.",
-      "FINISH & SERVE: Heat a drizzle of oil in pan used for filling over medium heat. Add quesadillas and cook until tortillas are golden brown and cheeses have melted, 3-4 minutes. TIP: Depending on the size of your pan, you may need to work in batches. Cut quesadillas into wedges and divide between plates. Serve with scallion greens, smoky red pepper crema, and sour cream on the side."
+      "FINISH & SERVE: Heat a drizzle of oil in pan used for filling over medium heat. Add quesadillas and cook until tortillas are golden brown and cheeses have melted, 3-4 minutes. TIP: Depending on the size of your pan, you may need to work in batches. Cut quesadillas into wedges and divide between plates. Sprinkle with scallion greens and drizzle with hot sauce if desired. Serve with smoky red pepper crema on the side."
     ],
     "proteins": [
       "Chicken"
@@ -2462,7 +2482,8 @@
       "smoky",
       "sour",
       "tortilla"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/606473afb30cbd7eb243e1b8-9e37d0a0-9908d62d.jpg"
   },
   {
     "name": "Spicy Harissa Chicken Bowls",
@@ -2470,7 +2491,7 @@
     "subtitle": "over Tabbouleh with Feta & Greek Vinaigrette",
     "prep_time": "10 min",
     "cook_time": "25 min",
-    "calories": "640",
+    "calories": "590",
     "ingredients": [
       {
         "name": "Bulgur Wheat (Contains: Wheat)",
@@ -2540,10 +2561,10 @@
       }
     ],
     "instructions": [
-      "COOK BULGUR: In a small pot, combine bulgur, stock concentrate, 1 cup water (2 cups for 4 servings), and 1/4 tsp harissa powder (1/2 tsp for 4). Bring to a boil, then cover and reduce to a low simmer. Cook until water has absorbed and bulgur is tender, 12-15 minutes. Keep covered off heat until ready to serve.",
+      "COOK BULGUR: In a small pot, combine bulgur, stock concentrate, 1 cup water (2 cups for 4 servings), and 1/2 tsp harissa powder (1 tsp for 4). Bring to a boil, then cover and reduce to a low simmer. Cook until water has absorbed and bulgur is tender, 12-15 minutes. Keep covered off heat until ready to serve.",
       "PREP: While bulgur cooks, wash and dry produce. Trim and finely dice cucumber. Finely dice tomato. Pick and mince fronds from dill.",
       "COOK CHICKEN: Pat chicken dry with paper towels; season with Tunisian Spice Blend, a big pinch of salt and pepper, and remaining harissa powder (be sure to measure; use remaining harissa powder for 4 servings). Heat a drizzle of oil in a large pan over medium-high heat. Add chicken and cook, stirring occasionally, until browned and cooked through, 4-6 minutes.",
-      "FINISH & SERVE: Drain any excess liquid from bulgur if necessary. Stir in cucumber, tomato, half the feta, and 1/4 TBSP butter (1/2 TBSP for 4 servings). Toss with half the Greek vinaigrette and add more from there if desired. Taste and season with salt and pepper. Divide tabbouleh between bowls and top with harissa chicken. Top with remaining feta. Drizzle with remaining Greek vinaigrette and serve."
+      "FINISH & SERVE: Drain any excess liquid from bulgur if necessary. Stir in cucumber, tomato, half the feta, and 1/2 TBSP butter (1 TBSP for 4 servings). Toss with half the Greek vinaigrette and add more from there if desired. Taste and season with salt and pepper. Divide tabbouleh between bowls and top with harissa chicken. Top with remaining feta. Drizzle with remaining Greek vinaigrette and serve."
     ],
     "proteins": [
       "Chicken"
@@ -2572,7 +2593,8 @@
       "tomato",
       "tsp",
       "vinaigrette"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6203c5a400045f77c82970f5-6f7483d6-824803b9.jpg"
   },
   {
     "name": "Gochujang-Glazed Chicken Bibimbap",
@@ -2716,7 +2738,8 @@
       "tsp",
       "vinegar",
       "wine"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/gochujang-glazed-chicken-bibimbap-5cdbd088-ebb91164.jpg"
   },
   {
     "name": "Creamy Cilantro Steak Bowl",
@@ -2811,7 +2834,7 @@
       "Beef"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Mexican"
@@ -2831,7 +2854,8 @@
       "rice",
       "sour",
       "steak"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/608024f5c51b92575d1134cd-1dad9812-d46a213b.jpg"
   },
   {
     "name": "Cherry Balsamic Bavette Steak",
@@ -2945,7 +2969,8 @@
       "sprout",
       "steak",
       "vinegar"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/622613126f9a7b726811a2cc-e2662838.jpg"
   },
   {
     "name": "Steak with Mushroom Cream Sauce",
@@ -2953,7 +2978,7 @@
     "subtitle": "plus Roasted Potatoes & Carrots",
     "prep_time": "10 min",
     "cook_time": "40 min",
-    "calories": "710",
+    "calories": "480",
     "ingredients": [
       {
         "name": "Ranch Steak",
@@ -3046,7 +3071,8 @@
       "sour",
       "steak",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6231f2c98cae5f6cde4c6187-1cfdad77-a95a8925.jpg"
   },
   {
     "name": "Middle Eastern Steak & Rice Pilaf",
@@ -3054,7 +3080,7 @@
     "subtitle": "with Tzatziki, Almonds & Smoky Roasted Veggies",
     "prep_time": "5 min",
     "cook_time": "30 min",
-    "calories": "780",
+    "calories": "450",
     "ingredients": [
       {
         "name": "Carrots",
@@ -3069,10 +3095,10 @@
         "clean_name": "Zucchini"
       },
       {
-        "name": "Persian Cucumber",
+        "name": "Mini Cucumber",
         "qty2": "1",
         "qty4": "2",
-        "clean_name": "Persian Cucumber"
+        "clean_name": "Mini Cucumber"
       },
       {
         "name": "Garlic",
@@ -3153,7 +3179,7 @@
       "Beef"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Middle Eastern"
@@ -3180,7 +3206,8 @@
       "steak",
       "yogurt",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5fea5a70e36d41789a2a6e4d-7425d08e-00b0fa01.jpg"
   },
   {
     "name": "Figgy Balsamic Pork",
@@ -3188,7 +3215,7 @@
     "subtitle": "with Roasted Carrots & Thyme Potatoes",
     "prep_time": "10 min",
     "cook_time": "30 min",
-    "calories": "N/A on card",
+    "calories": "600",
     "ingredients": [
       {
         "name": "Yukon Gold Potatoes",
@@ -3263,7 +3290,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin"
+      "Skillet Main"
     ],
     "cultures": [
       "Italian"
@@ -3281,7 +3308,8 @@
       "thyme",
       "vinegar",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/66703c8698f15bd5272cf984-b1168a7a.jpeg"
   },
   {
     "name": "Sweet & Smoky Pork Tenderloin",
@@ -3364,7 +3392,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin"
+      "Skillet Main"
     ],
     "cultures": [
       "Classic / Other"
@@ -3389,7 +3417,8 @@
       "white",
       "wine",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5ea7100e77d519361f777cb4-d38061f6.jpg"
   },
   {
     "name": "Cranberry Dijon Pork Tenderloin",
@@ -3397,7 +3426,7 @@
     "subtitle": "with Mashed Potatoes & Roasted Green Beans",
     "prep_time": "10 min",
     "cook_time": "45 min",
-    "calories": "650",
+    "calories": "450",
     "ingredients": [
       {
         "name": "Yukon Gold Potatoes",
@@ -3484,7 +3513,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin"
+      "Skillet Main"
     ],
     "cultures": [
       "French"
@@ -3506,7 +3535,8 @@
       "sour",
       "tenderloin",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/620c20477454ef67eb6b38ae-760eec18-56c832fe.jpg"
   },
   {
     "name": "Pork Sausage & Bell Pepper Risotto",
@@ -3514,7 +3544,7 @@
     "subtitle": "with Parmesan & Lemon",
     "prep_time": "5 min",
     "cook_time": "45 min",
-    "calories": "910",
+    "calories": "790",
     "ingredients": [
       {
         "name": "Chicken Stock Concentrates",
@@ -3614,7 +3644,8 @@
       "sausage",
       "scallion",
       "seasoning"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/617041791f771a6a0b36e4b2-05685a8a-b753041b.jpg"
   },
   {
     "name": "Balsamic Rosemary Pork Chops",
@@ -3689,7 +3720,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops"
+      "Skillet Main"
     ],
     "cultures": [
       "Italian"
@@ -3707,7 +3738,8 @@
       "rosemary",
       "sugar",
       "vinegar"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61cb2476d71940215d37063e-e8f41a59.jpg"
   },
   {
     "name": "Pork Sausage Spaghetti Bolognese",
@@ -3804,7 +3836,8 @@
       "spice",
       "tuscan",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5e5fb1a37d29a46aa45ffa13-b1fb90f6.jpg"
   },
   {
     "name": "Cranberry Dijon Pork Chops",
@@ -3886,7 +3919,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops"
+      "Skillet Main"
     ],
     "cultures": [
       "French"
@@ -3903,7 +3936,8 @@
       "pork",
       "rosemary",
       "sprout"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/cranberry-dijon-pork-chops-c7d24ad5-9436f721.jpg"
   },
   {
     "name": "Chimichurri Pork Tenderloin",
@@ -3927,8 +3961,8 @@
       },
       {
         "name": "Garlic",
-        "qty2": "1 clove",
-        "qty4": "1 clove",
+        "qty2": "2 cloves",
+        "qty4": "4 cloves",
         "clean_name": "Garlic"
       },
       {
@@ -3992,8 +4026,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Latin American"
@@ -4011,7 +4044,8 @@
       "pork",
       "rice",
       "tenderloin"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5e5026b99e16cc20fb4c09c8-e737101b.jpg"
   },
   {
     "name": "Pork Al Pastor Bowls",
@@ -4019,7 +4053,7 @@
     "subtitle": "with Fajita Veggies, Pico de Gallo & Cilantro Lime Rice",
     "prep_time": "10 min",
     "cook_time": "30 min",
-    "calories": "N/A on card",
+    "calories": "820",
     "ingredients": [
       {
         "name": "Pineapple",
@@ -4124,7 +4158,7 @@
       "Pork"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Mexican"
@@ -4152,7 +4186,8 @@
       "sour",
       "tomato",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/pork-al-pastor-bowls-455fad0c.jpg"
   },
   {
     "name": "Honey Thyme Pork Tenderloin",
@@ -4229,7 +4264,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin"
+      "Skillet Main"
     ],
     "cultures": [
       "Classic / Other"
@@ -4246,7 +4281,8 @@
       "tenderloin",
       "thyme",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/615db8f220008b2e0307f097-7cf15518-5e526453.jpg"
   },
   {
     "name": "Sweet Thai Chili Pork Tenderloin",
@@ -4335,8 +4371,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -4357,7 +4392,8 @@
       "sweet",
       "tenderloin",
       "thai"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sweet-thai-chili-pork-tenderloin-6a1f81d8-b52f3acf.jpg"
   },
   {
     "name": "Sesame Soy Pork Bowls",
@@ -4438,7 +4474,7 @@
       "Pork"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -4463,7 +4499,8 @@
       "sugar",
       "sweet",
       "tsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_1920,f_auto,c_limit,fl_lossy/recipes/image/5fa06a5f20b9661c0d5e342f-9d881539-9859fadd.jpg"
   },
   {
     "name": "Butternut Squash Agnolotti",
@@ -4471,7 +4508,7 @@
     "subtitle": "with Mushroom Cream Sauce & Walnuts",
     "prep_time": "5 min",
     "cook_time": "15 min",
-    "calories": "N/A on card",
+    "calories": "530",
     "ingredients": [
       {
         "name": "Butternut Squash Agnolotti (Contains: Eggs, Milk, Wheat)",
@@ -4511,7 +4548,7 @@
       },
       {
         "name": "Walnuts (Contains: Tree Nuts)",
-        "qty2": "1/4 oz",
+        "qty2": "1/2 oz",
         "qty4": "1 oz",
         "clean_name": "Walnuts"
       },
@@ -4555,7 +4592,8 @@
       "parmesan",
       "squash",
       "walnut"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/664cabb65e4dc3c6a6a94110-529c675f.jpeg"
   },
   {
     "name": "Sun-Dried Tomato Spaghetti",
@@ -4665,7 +4703,8 @@
       "spaghetti",
       "sun",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6231ef8d59a1d65a30536f97-a00746c3.jpg"
   },
   {
     "name": "Bacon & Scallop Mushroom Risotto",
@@ -4673,7 +4712,7 @@
     "subtitle": "with Parsley & Lemon Wedges",
     "prep_time": "10 min",
     "cook_time": "45 min",
-    "calories": "N/A on card",
+    "calories": "1030",
     "ingredients": [
       {
         "name": "Chicken Stock Concentrates",
@@ -4753,7 +4792,7 @@
     "proteins": [
       "Bacon",
       "Pork",
-      "Scallop"
+      "Seafood"
     ],
     "categories": [
       "Risotto"
@@ -4775,7 +4814,8 @@
       "rice",
       "scallop",
       "shallot"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bacon-scallop-mushroom-risotto-7185e070.jpg"
   },
   {
     "name": "Gnocchi with Spinach & Heirloom Tomatoes",
@@ -4790,6 +4830,12 @@
         "qty2": "4 oz",
         "qty4": "8 oz",
         "clean_name": "Heirloom Grape Tomatoes"
+      },
+      {
+        "name": "Shallot",
+        "qty2": "1",
+        "qty4": "2",
+        "clean_name": "Shallot"
       },
       {
         "name": "Baby Spinach",
@@ -4885,7 +4931,8 @@
       "powder",
       "spinach",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5fea5b5d27c560013957dcf9-b9960379-fc6f58a2.jpg"
   },
   {
     "name": "Pan-Fried Garlic Herb Gnocchi",
@@ -4968,7 +5015,8 @@
       "sun",
       "tomato",
       "tsp"
-    ]
+    ],
+    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/pan-fried-garlic-herb-gnocchi-b98a3cc7-bf3333de.jpg"
   },
   {
     "name": "One-Pan Mushroom Gnocchi",
@@ -5072,7 +5120,8 @@
       "seasoning",
       "sun",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-mushroom-gnocchi-97bfbdad-6964b549.jpg"
   },
   {
     "name": "Chickpea-Powered Mediterranean Couscous",
@@ -5187,7 +5236,8 @@
       "thyme",
       "tomato",
       "zucchini"
-    ]
+    ],
+    "image_url": ""
   },
   {
     "name": "Mushroom & Chive Risotto",
@@ -5195,7 +5245,7 @@
     "subtitle": "swirled with Garlic Herb Butter",
     "prep_time": "10 min",
     "cook_time": "50 min",
-    "calories": "N/A on card",
+    "calories": "590",
     "ingredients": [
       {
         "name": "Yellow Onion",
@@ -5297,7 +5347,8 @@
       "rice",
       "tomato",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/mushroom-chive-risotto-23897b89.jpg"
   },
   {
     "name": "Pork Sausage & Pea Risotto",
@@ -5391,7 +5442,8 @@
       "rice",
       "sausage",
       "shallot"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/2019-w22-r5-sausage-and-spring-pea-risotto-36699460.jpg"
   },
   {
     "name": "One-Pan Pasta Primavera",
@@ -5498,7 +5550,8 @@
       "scallion",
       "seasoning",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/63fe379d1577033fb2010fc3-5354cfcd.jpg"
   },
   {
     "name": "Penne Rustica with a Kick",
@@ -5610,7 +5663,8 @@
       "roma",
       "sliced",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/611d24bd032adf23706a9b21-eb0ac76c-5d9f846e.jpg"
   },
   {
     "name": "BBQ Pineapple Flatbreads",
@@ -5714,7 +5768,8 @@
       "sauce",
       "vinegar",
       "wine"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/620c20eaaf420111a021e19a-39cd781c.jpg"
   },
   {
     "name": "Hot Honey Brussels & Lemon Ricotta Flatbread",
@@ -5809,7 +5864,8 @@
       "ricotta",
       "seasoning",
       "sprout"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_1920,f_auto,c_limit,fl_lossy/recipes/image/6203c4a92a465d7f3e08ea40-17a42e9d.jpg"
   },
   {
     "name": "Zucchini & Tomato Flatbreads",
@@ -5912,7 +5968,8 @@
       "ricotta",
       "tomato",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/zucchini-and-tomato-flatbreads-cf443dcd.jpg"
   },
   {
     "name": "Shawarma-Spiced Halloumi",
@@ -6019,7 +6076,7 @@
       "Halloumi"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Mediterranean",
@@ -6043,7 +6100,8 @@
       "shallot",
       "sour",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6239d858457d6e66121a17e0-74e965d0-e85b0ff9.jpg"
   },
   {
     "name": "Spicy Peanut Szechuan Veggie Stir-Fry",
@@ -6156,7 +6214,8 @@
       "szechuan",
       "vinegar",
       "wine"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-szechuan-veggie-noodle-stir-fry-8d7079b3-d26bb862.jpg"
   },
   {
     "name": "Street Cart-Style Turkey Bowls",
@@ -6209,10 +6268,10 @@
         "clean_name": "Mayonnaise"
       },
       {
-        "name": "Shawurma Spice Blend",
+        "name": "Shawarma Spice Blend",
         "qty2": "1 TBSP",
         "qty4": "2 TBSP",
-        "clean_name": "Shawurma Spice Blend"
+        "clean_name": "Shawarma Spice Blend"
       },
       {
         "name": "Chicken Stock Concentrates",
@@ -6269,7 +6328,7 @@
       "Turkey"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "American"
@@ -6296,7 +6355,8 @@
       "turkey",
       "turmeric",
       "whole"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/621e8a34eae5940f43614ace-6119f0cc.jpg"
   },
   {
     "name": "One-Pan Steak & Green Pepper Quesadillas",
@@ -6402,7 +6462,8 @@
       "sour",
       "steak",
       "tortilla"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/steak-green-pepper-quesadillas-98636bb4.jpg"
   },
   {
     "name": "Black Bean & Poblano Quesadillas",
@@ -6519,7 +6580,8 @@
       "sour",
       "tomato",
       "tortilla"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-black-bean-poblano-quesadillas-10ffd317.jpg"
   },
   {
     "name": "Hoisin Honey Chicken",
@@ -6602,7 +6664,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -6625,15 +6687,16 @@
       "sriracha",
       "strip",
       "tbsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61a7d17e4173da41a34381f2-8ed7a826-6e7d92c6.jpg"
   },
   {
     "name": "Bravo Balsamic Chicken",
-    "section": "🦃  Turkey",
+    "section": "🐔  Chicken & Poultry",
     "subtitle": "with Roasted Brussels Sprouts & Herby Potatoes",
-    "prep_time": "",
-    "cook_time": "",
-    "calories": "",
+    "prep_time": "10 min",
+    "cook_time": "35 min",
+    "calories": "475",
     "ingredients": [
       {
         "name": "Brussels Sprouts",
@@ -6724,7 +6787,8 @@
       "tsp",
       "vinegar",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bravo-balsamic-chicken-808762d4-736898a0.jpg"
   },
   {
     "name": "Teriyaki Ginger Salmon",
@@ -6810,11 +6874,10 @@
       "FINISH & SERVE: Fluff rice with a fork; stir in lime zest and 1 TBSP butter (2 TBSP for 4 servings), salt. Toss carrots with a squeeze of lime juice to taste and season with salt and pepper. Divide rice, carrots, and salmon between plates. Drizzle salmon with any remaining sauce. Top with pickled scallion whites, scallion greens, and sesame seeds. Drizzle salmon with sriracha as you like. Serve with remaining lime wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -6837,7 +6900,8 @@
       "vinegar",
       "white",
       "wine"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/68caa9564b065ac03dc0d232-9fdf4da8.jpeg"
   },
   {
     "name": "Spicy Tunisian Bulgur Bowls",
@@ -6968,7 +7032,8 @@
       "tbsp",
       "tomato",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-tunisian-bulgur-bowls-d10e22cc-224feabf.jpg"
   },
   {
     "name": "Crispy Chickpea Couscous Bowls",
@@ -7069,7 +7134,6 @@
       "Chickpeas"
     ],
     "categories": [
-      "Bowl",
       "Couscous"
     ],
     "cultures": [
@@ -7095,7 +7159,8 @@
       "sugar",
       "tbsp",
       "tsp"
-    ]
+    ],
+    "image_url": ""
   },
   {
     "name": "Cherry Balsamic Pork Chops",
@@ -7166,8 +7231,7 @@
       "Pork"
     ],
     "categories": [
-      "Couscous",
-      "Pork Chops"
+      "Couscous"
     ],
     "cultures": [
       "Italian"
@@ -7187,7 +7251,8 @@
       "thyme",
       "vinegar",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5d3b35cce203d2000828c3e1-c3f56b01.jpg"
   },
   {
     "name": "Yogurt-Marinated Curried Chicken",
@@ -7282,7 +7347,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Indian"
@@ -7305,7 +7370,8 @@
       "rice",
       "sour",
       "yogurt"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yogurt-marinated-curried-chicken-007a1b39-307722fd.jpg"
   },
   {
     "name": "Chicken Au Poivre",
@@ -7397,7 +7463,8 @@
       "tbsp",
       "tsp",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61e7023d4029aa25527edc93-f170469d-24ecc13e.jpg"
   },
   {
     "name": "Sesame Chili Pork Chops & Veggie Stir-Fry",
@@ -7486,7 +7553,6 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops",
       "Stir-Fry"
     ],
     "cultures": [
@@ -7514,7 +7580,8 @@
       "tbsp",
       "thai",
       "tsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sesame-chili-pork-chops-veggie-stir-fry-e137a7bd-6653c4fb.jpg"
   },
   {
     "name": "Hey, Honey! Salmon",
@@ -7576,10 +7643,10 @@
       "SERVE: Divide salmon, potato wedges, and green beans between plates. Spoon sauce over salmon. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood"
+      "Sheet Pan"
     ],
     "cultures": [
       "American"
@@ -7599,7 +7666,8 @@
       "tbsp",
       "tsp",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6113d8a40dbe48785c37b3f5-95c14323-d4f4536f.jpg"
   },
   {
     "name": "One-Pan Moroccan Chicken & Couscous",
@@ -7725,7 +7793,8 @@
       "tomato",
       "tsp",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/moroccan-chicken-couscous-skillet-5b35a834-ea4b792c.jpg"
   },
   {
     "name": "Spiced Chicken in Apricot Sauce",
@@ -7820,7 +7889,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Classic / Other"
@@ -7842,7 +7911,8 @@
       "sliced",
       "tomato",
       "yogurt"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spiced-chicken-in-apricot-sauce-6330b05f-9c761589.jpg"
   },
   {
     "name": "One-Pan Cheesy Beef Tortilla Melts",
@@ -7940,7 +8010,8 @@
       "tbsp",
       "tortilla",
       "tsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/624326ad6cfe6a76cd3ae4c6-b1c92148-a2772819.jpg"
   },
   {
     "name": "Sheet Pan Chicken & Pepper Fajitas",
@@ -8055,7 +8126,8 @@
       "tortilla",
       "tsp",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/615db681c4d9f2725126da76-4a843d25-5fb778ab.jpg"
   },
   {
     "name": "Sweet Ginger Pork Chops",
@@ -8126,8 +8198,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Classic / Other"
@@ -8144,7 +8215,8 @@
       "pork",
       "rice",
       "tbsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sweet-ginger-pork-chops-03f04909-19f0d758.jpg"
   },
   {
     "name": "Creamy Dill Pork Cutlets",
@@ -8215,8 +8287,7 @@
       "Pork"
     ],
     "categories": [
-      "Couscous",
-      "Pork Chops"
+      "Couscous"
     ],
     "cultures": [
       "Classic / Other"
@@ -8234,7 +8305,8 @@
       "pork",
       "sour",
       "tbsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/60646fd54752ff61a8697ba5-304a8a77-e2dc4680.jpg"
   },
   {
     "name": "Mexican Chicken & Rice Bowls",
@@ -8335,7 +8407,7 @@
       "Chicken"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Mexican"
@@ -8363,7 +8435,8 @@
       "tomato",
       "tsp",
       "turmeric"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61cb2b928e2ddc4eb77eebc2-34ed84b7-50211110.jpg"
   },
   {
     "name": "One-Pan Rajas Quesadillas",
@@ -8481,97 +8554,8 @@
       "tortilla",
       "vinegar",
       "wine"
-    ]
-  },
-  {
-    "name": "Honey Thyme Pork Tenderloin",
-    "section": "🥣  EveryPlate",
-    "subtitle": "with Roasted Sweet Potatoes & Brussels Sprouts",
-    "prep_time": "",
-    "cook_time": "",
-    "calories": "",
-    "ingredients": [
-      {
-        "name": "Sweet Potatoes",
-        "qty2": "2",
-        "qty4": "4",
-        "clean_name": "Sweet Potatoes"
-      },
-      {
-        "name": "Brussels Sprouts",
-        "qty2": "8 oz",
-        "qty4": "16 oz",
-        "clean_name": "Brussels Sprouts"
-      },
-      {
-        "name": "Garlic",
-        "qty2": "1 clove",
-        "qty4": "1 clove",
-        "clean_name": "Garlic"
-      },
-      {
-        "name": "Dried Thyme",
-        "qty2": "1 tsp",
-        "qty4": "1 tsp",
-        "clean_name": "Dried Thyme"
-      },
-      {
-        "name": "Honey",
-        "qty2": "2 tsp",
-        "qty4": "4 tsp",
-        "clean_name": "Honey"
-      },
-      {
-        "name": "Pork Tenderloin",
-        "qty2": "12 oz",
-        "qty4": "24 oz",
-        "clean_name": "Pork Tenderloin"
-      },
-      {
-        "name": "Chicken Stock Concentrates",
-        "qty2": "2",
-        "qty4": "4",
-        "clean_name": "Chicken Stock Concentrates"
-      },
-      {
-        "name": "Butter (1 TBSP | 2 TBSP), cooking oil (4 tsp | 4 tsp), salt, pepper",
-        "qty2": "to taste",
-        "qty4": "to taste",
-        "clean_name": "Butter (1 TBSP | 2 TBSP), cooking oil (4 tsp | 4 tsp), salt, pepper"
-      }
     ],
-    "instructions": [
-      "ROAST SWEET POTATOES: Adjust rack to top and middle positions and preheat oven to 425 degrees. Wash and dry all produce. Peel and dice sweet potatoes into 3/4-inch pieces. (TIP: For speedier prep, skip the peeling.) Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 5 minutes (you'll add the Brussels sprouts then).",
-      "ROAST BRUSSELS SPROUTS: Meanwhile, trim and halve Brussels sprouts lengthwise. (For 4 servings, leave sweet potatoes roasting; toss Brussels sprouts on a second baking sheet and roast on middle rack.) Once sweet potatoes have roasted 5 minutes, remove sheet from oven. Carefully toss Brussels sprouts on empty side with a drizzle of oil and a pinch of salt and pepper. Return sheet to oven; roast until veggies are tender, 18-22 minutes.",
-      "SEAR PORK & PREP GARLIC: While veggies roast, pat pork dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and sear, turning occasionally, until browned all over, 4-8 minutes. (It'll finish cooking in the next step.) While pork cooks, peel and mince half the garlic (all the garlic for 4 servings).",
-      "ROAST PORK: Once pork is browned, transfer to a second baking sheet. (For 4 servings, carefully place seared pork on empty side of sheet and roast on middle rack.) Roast on middle rack until pork is cooked through, 12-15 minutes. Transfer pork to a cutting board to rest. Thinly slice crosswise.",
-      "MAKE SAUCE: Heat a drizzle of oil in pan used for pork over medium heat. Add minced garlic and thyme; cook until fragrant, 30 seconds. Stir in stock concentrates, honey, and 1/4 cup water (1/3 cup for 4 servings). Bring to a simmer, scraping up any browned bits from bottom of pan, until sauce has reduced and thickened, 2-3 minutes. Season with salt and pepper. Stir in 1 TBSP butter (2 TBSP for 4) until melted. TIP: If sauce seems too thick, stir in a splash or two of water.",
-      "SERVE: Divide pork, Brussels sprouts, and sweet potatoes between plates. Drizzle pork with sauce and serve."
-    ],
-    "proteins": [
-      "Pork"
-    ],
-    "categories": [
-      "Pork Tenderloin"
-    ],
-    "cultures": [
-      "Classic / Other"
-    ],
-    "ing_words": [
-      "brussel",
-      "cooking",
-      "dried",
-      "garlic",
-      "honey",
-      "pork",
-      "potato",
-      "sprout",
-      "sweet",
-      "tbsp",
-      "tenderloin",
-      "thyme",
-      "tsp"
-    ]
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-rajas-quesadillas-997eef7d-8f4fe8a3.jpg"
   },
   {
     "name": "Bulgogi Pork Tenderloin",
@@ -8642,8 +8626,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -8664,7 +8647,8 @@
       "tbsp",
       "tenderloin",
       "tsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bulgogi-pork-tenderloin-84b2ebd0.jpg"
   },
   {
     "name": "Rosemary Demi-Glace Pork Chops",
@@ -8736,7 +8720,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops"
+      "Skillet Main"
     ],
     "cultures": [
       "French"
@@ -8759,7 +8743,8 @@
       "tbsp",
       "tsp",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/609bd7fb1ea45f265b6d3ff1-99bab7db.jpg"
   },
   {
     "name": "Italian Chicken over Lemony Spaghetti",
@@ -8871,7 +8856,8 @@
       "tbsp",
       "tsp",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61f04a680a801820a523ed9c-5fcc421f.jpg"
   },
   {
     "name": "Duck a l'Orange",
@@ -9000,7 +8986,8 @@
       "vinegar",
       "wine",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/duck-a-l-orange-761c9556.jpg"
   },
   {
     "name": "Creamy Lemon Butter Chicken",
@@ -9114,7 +9101,8 @@
       "tsp",
       "tuscan",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5e7a45486336ee1f19459513-37e902ea-952dc5ab.jpg"
   },
   {
     "name": "Balsamic Fig Chicken",
@@ -9220,7 +9208,8 @@
       "tsp",
       "vinegar",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5eb19d14cd626b0b360327ee-c03bae1f-40a22c20.jpg"
   },
   {
     "name": "Hoisin-Glazed Pork Tenderloin",
@@ -9309,8 +9298,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Tenderloin",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -9335,7 +9323,8 @@
       "sriracha",
       "tbsp",
       "tenderloin"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/hoisin-glazed-pork-tenderloin-b3aeeb0e.jpg"
   },
   {
     "name": "Brown Sugar Bourbon Apple Pork Chops",
@@ -9412,7 +9401,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops"
+      "Skillet Main"
     ],
     "cultures": [
       "American"
@@ -9439,7 +9428,8 @@
       "tbsp",
       "tsp",
       "yukon"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6434eb74d77e4cc6860bf922-17d4992a.jpg"
   },
   {
     "name": "One-Pan Baja Chicken Quesadillas",
@@ -9556,7 +9546,8 @@
       "tbsp",
       "tomato",
       "tortilla"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/648888970b7af205da01b370-c4eb04a5.jpeg"
   },
   {
     "name": "Miso Apricot Chicken",
@@ -9639,7 +9630,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -9659,7 +9650,8 @@
       "rice",
       "scallion",
       "tbsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/622610b649990671902672e3-17151a87.jpg"
   },
   {
     "name": "Pork Katsu",
@@ -9748,8 +9740,7 @@
       "Pork"
     ],
     "categories": [
-      "Pork Chops",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian",
@@ -9775,7 +9766,8 @@
       "sour",
       "tbsp",
       "vegetable"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/pork-katsu-c150cfba-7854a16e.jpg"
   },
   {
     "name": "Salmon in a Creamy Dijon Chive Sauce",
@@ -9849,10 +9841,10 @@
       "SERVE: Divide salmon, potatoes, and zucchini between plates. Drizzle salmon with remaining sauce. Garnish with remaining chives if desired. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood"
+      "Skillet Main"
     ],
     "cultures": [
       "French"
@@ -9870,7 +9862,8 @@
       "tbsp",
       "yukon",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61670c5727bc454a694fd451-28604574-7798068e.jpg"
   },
   {
     "name": "Mediterranean Salmon",
@@ -9944,7 +9937,7 @@
       "SERVE: Divide couscous and green beans between plates. Top couscous with salmon. Drizzle salmon with sauce. Sprinkle with remaining Za'atar Spice and reserved dill to taste. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
       "Couscous"
@@ -9968,7 +9961,8 @@
       "tbsp",
       "vegetable",
       "za"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/mediterranean-salmon-0f503f3e-70d68c8a.jpg"
   },
   {
     "name": "Yogurt-Marinated Chicken with Garlic Sauce",
@@ -10091,7 +10085,8 @@
       "tbsp",
       "tsp",
       "yogurt"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yogurt-marinated-chicken-garlic-sauce-8393b451.jpg"
   },
   {
     "name": "Garlic Rosemary Chicken",
@@ -10186,7 +10181,8 @@
       "rosemary",
       "sweet",
       "tbsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5cdee6430e764f000843aa7d-61f270f9.jpg"
   },
   {
     "name": "Chicken Gyro Couscous Bowls",
@@ -10287,9 +10283,7 @@
       "Chicken"
     ],
     "categories": [
-      "Bowl",
-      "Couscous",
-      "Wraps & Gyros"
+      "Couscous"
     ],
     "cultures": [
       "Middle Eastern"
@@ -10312,7 +10306,8 @@
       "sour",
       "tbsp",
       "tomato"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-gyro-couscous-bowls-753b1e88.jpg"
   },
   {
     "name": "Salmon Limone",
@@ -10392,7 +10387,7 @@
       "FINISH & SERVE: Fluff couscous with a fork; stir in zucchini, tomatoes, scallion greens, and a squeeze of lemon juice. Season with salt and pepper. Divide couscous between bowls or plates; top with salmon. Drizzle everything with crema. Serve with remaining lemon wedges on the side."
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
       "Couscous"
@@ -10415,7 +10410,8 @@
       "tbsp",
       "tomato",
       "zucchini"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/614b477d07c2532eb677c09c-a12c2ae7.jpg"
   },
   {
     "name": "Cherry Balsamic Chicken",
@@ -10519,7 +10515,8 @@
       "sliced",
       "tbsp",
       "vinegar"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/60eeee4c1afbf376a85e7a86-6a9f8caa-b138d3c3.jpg"
   },
   {
     "name": "Hibachi-Style Chicken Stir-Fry",
@@ -10629,7 +10626,8 @@
       "tbsp",
       "tsp",
       "yellow"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/hibachi-style-mushroom-stir-fry-527f8588-61a83137.jpg"
   },
   {
     "name": "Spicy Peruvian Chicken",
@@ -10730,7 +10728,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Latin American",
@@ -10755,7 +10753,8 @@
       "tbsp",
       "tomato",
       "tsp"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-peruvian-chicken-and-loaded-rice-c58214d2-eb13fb14.jpg"
   },
   {
     "name": "Lemon Za'atar Chicken",
@@ -10884,7 +10883,8 @@
       "turmeric",
       "white",
       "za"
-    ]
+    ],
+    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/lemon-zaatar-chicken-f822018f-a6c48635.jpg"
   },
   {
     "name": "Blackened Chicken with Cheesy Grits & Broccoli",
@@ -10984,7 +10984,8 @@
       "shredded",
       "smoked",
       "sugar"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/powder-03-202309.png_merge_recipes/bohGTi1zy0i1cw.png.jpg"
   },
   {
     "name": "Salmon & Mushrooms with Rice",
@@ -11045,11 +11046,10 @@
       "SERVE: Serve the salmon & mushrooms over a fluffy bed of rice. Enjoy!"
     ],
     "proteins": [
-      "Salmon"
+      "Seafood"
     ],
     "categories": [
-      "Fish & Seafood",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Asian"
@@ -11069,7 +11069,8 @@
       "sauce",
       "white",
       "whole"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/kale-04-202309.png_merge_recipes/paC4LTm0aHXmDA.png.jpg"
   },
   {
     "name": "Chicken with Orzo & Cheesy Fall Veggies",
@@ -11162,7 +11163,8 @@
       "parsley",
       "shredded",
       "squash"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/kale-01-202309.png_merge_recipes/04yw0xSFJWBowA.png.jpg"
   },
   {
     "name": "Cauliflower Rice Risotto with Chicken",
@@ -11256,7 +11258,8 @@
       "riced",
       "spinach",
       "whole"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/yolk-03-202309.png_merge_recipes/MfVIEMw0Jf0FFA.png.jpg"
   },
   {
     "name": "Thai-Inspired Chicken & Basil Stir Fry",
@@ -11328,7 +11331,7 @@
     ],
     "categories": [
       "Stir-Fry",
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Thai",
@@ -11347,7 +11350,8 @@
       "sauce",
       "shallot",
       "sugar"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/EGnybj88TrpuyQ.png.jpg"
   },
   {
     "name": "Chicken Tex-Mex Bowl",
@@ -11417,7 +11421,7 @@
       "Chicken"
     ],
     "categories": [
-      "Bowl"
+      "Rice Bowl"
     ],
     "cultures": [
       "Mexican"
@@ -11439,7 +11443,8 @@
       "seasoning",
       "taco",
       "white"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/kale-01-202309.png_merge_recipes/MC89VNTL2a6l0g.png.jpg"
   },
   {
     "name": "Creamy Curry Udon Noodles with Mushrooms",
@@ -11529,7 +11534,8 @@
       "udon",
       "white",
       "whole"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/beet-03-202309.png_merge_recipes/O0c5zvvRTxp4Kw.png.jpg"
   },
   {
     "name": "Chicken Pesto Pasta",
@@ -11613,7 +11619,8 @@
       "pesto",
       "powder",
       "rotini"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/KBoS60bUYtHGig.png.jpg"
   },
   {
     "name": "Cheesy Veggie Pasta",
@@ -11693,7 +11700,8 @@
       "pasta",
       "shredded",
       "spinach"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/gSmSOl5qyzUcQQ.png.jpg"
   },
   {
     "name": "Yogurt Curry Chicken with Cauliflower & Rice",
@@ -11755,8 +11763,8 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate",
-      "Sheet Pan"
+      "Sheet Pan",
+      "Rice Bowl"
     ],
     "cultures": [
       "Indian"
@@ -11778,7 +11786,8 @@
       "thigh",
       "white",
       "yogurt"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/powder-02-202309.png_merge_recipes/GLeXECUgU21caQ.png.jpg"
   },
   {
     "name": "Harissa Salmon with Couscous & Cucumber",
@@ -11855,7 +11864,7 @@
       "SERVE: Serve the salmon over the couscous salad. Garnish with mint leaves. Drizzle with olive oil. Enjoy!"
     ],
     "proteins": [
-      "Salmon",
+      "Seafood",
       "Chickpeas"
     ],
     "categories": [
@@ -11877,7 +11886,8 @@
       "paste",
       "salmon",
       "shallot"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/raddish-03-202309.png_merge_recipes/xuZQfba4fvStTw.png.jpg"
   },
   {
     "name": "Creamy Mushroom Chicken with Polenta",
@@ -11964,7 +11974,8 @@
       "white",
       "whole",
       "yellow"
-    ]
+    ],
+    "image_url": "https://static.jow.fr/550x550/patterns/beet-04-202309.png_merge_recipes/TVTyokiNb6iZ9A.png.jpg"
   },
   {
     "name": "Easiest Chicken Adobo",
@@ -12048,7 +12059,7 @@
       "Chicken"
     ],
     "categories": [
-      "Rice Plate"
+      "Rice Bowl"
     ],
     "cultures": [
       "Filipino",
@@ -12090,6 +12101,7 @@
       "vegetable",
       "vinegar",
       "white"
-    ]
+    ],
+    "image_url": "https://assets.bonappetit.com/photos/59dfb869d4ce5d0f9308549b/1:1/w_1920,c_limit/chicken-adobo.jpg"
   }
 ]
