@@ -914,3 +914,320 @@ Remaining: 74 recipes (#4-#77) not audited in this session due to context limits
 
 **Verdict:** ✓ No changes needed.
 
+
+---
+
+## 53. Sweet Ginger Pork Chops
+
+**Live URL:** https://www.hellofresh.com/recipes/sweet-ginger-pork-chops-61b8b57839e675135c75e4b4
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (broccoli florets, ginger, chili pepper, jasmine rice, pork chops, chicken stock concentrate, apricot jam) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 54. Creamy Dill Pork Cutlets
+
+**Live URL:** https://www.hellofresh.com/recipes/creamy-dill-pork-cutlets-60646fd54752ff61a8697ba5
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (broccoli florets, dill, Israeli couscous, pork cutlets, chicken stock concentrates, sour cream, Dijon mustard) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 55. Mexican Chicken & Rice Bowls
+
+**Live URL:** https://www.hellofresh.com/recipes/mexican-chicken-and-rice-bowls-61cb2b928e2ddc4eb77eebc2
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (jasmine rice, turmeric, scallions, long green pepper, Roma tomato, chicken breast strips, chicken stock concentrate, Southwest Spice Blend, Tex-Mex paste, sour cream, hot sauce, lime) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 56. One-Pan Rajas Quesadillas
+
+**Live URL:** https://www.hellofresh.com/recipes/one-pan-rajas-quesadillas-621e81bb7589d8141d356786
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (poblano, red onion, Roma tomatoes, cilantro, Southwest Spice Blend, red wine vinegar, flour tortillas, pepper jack, Mexican cheese blend, sour cream, guacamole) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 57. Bulgogi Pork Tenderloin
+
+**Live URL:** https://www.hellofresh.com/recipes/bulgogi-pork-tenderloin-5dc0447e63e39d51e602217c
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, scallions, lime, jasmine rice, pork tenderloin, bulgogi sauce, sesame seeds) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 58. Rosemary Demi-Glace Pork Chops
+
+**Live URL:** https://www.hellofresh.com/recipes/rosemary-demi-glace-pork-chops-609bd7fb1ea45f265b6d3ff1
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, red onion, Yukon Gold potatoes, rosemary, pork chops, chicken demi-glace, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 59. Italian Chicken over Lemony Spaghetti
+
+**Live URL:** https://www.hellofresh.com/recipes/italian-chicken-over-lemony-spaghetti-61f04a680a801820a523ed9c
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (zucchini, garlic, lemon, chicken breasts, Italian Seasoning, chili flakes, spaghetti, chicken stock concentrate, sour cream, Parmesan) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 60. Duck a l'Orange
+
+**Live URL:** https://www.hellofresh.com/recipes/duck-a-l-orange-61b0cfe9f30ef42bbb3d3475
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (duck breasts, Yukon Gold potatoes, thyme, orange, shallot, arugula, red wine vinegar, apricot jam, chicken stock concentrate, sour cream, Dijon mustard, almonds) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 61. Creamy Lemon Butter Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/creamy-lemon-butter-chicken-5e7a45486336ee1f19459513
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (zucchini, scallions, lemon, chicken cutlets, Tuscan Heat Spice, Israeli couscous, panko, chicken stock concentrates, sour cream, Parmesan) align with HelloFresh recipe. (Live now uses mozzarella in the zucchini topping; DB matches original Parmesan version.)
+
+**Verdict:** ✓ No changes needed (DB matches original card).
+
+
+---
+
+## 62. Balsamic Fig Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/balsamic-fig-chicken-6765a8219bfc6de73c8e1d7c
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (Yukon Gold potatoes, rosemary, red onion, lemon, chicken cutlets, balsamic vinegar, fig jam, chicken stock concentrate, mixed greens) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 63. Hoisin-Glazed Pork Tenderloin
+
+**Live URL:** https://www.hellofresh.com/recipes/hoisin-glazed-pork-tenderloin-60365e674c16f30fdc790ee3
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (scallions, green beans, jasmine rice, pork tenderloin, hoisin sauce, ponzu sauce, garlic powder, mayonnaise, sriracha, sesame seeds) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 64. Brown Sugar Bourbon Apple Pork Chops
+
+**Live URL:** https://www.hellofresh.com/recipes/brown-sugar-bourbon-apple-pork-chops-64b69f708c02aa0344141119
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (Yukon Gold potatoes, apple, scallions, green beans, pork chops, McCormick Grill Mates Brown Sugar Bourbon Seasoning, chicken stock concentrate, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 65. One-Pan Baja Chicken Quesadillas
+
+**Live URL:** https://www.hellofresh.com/recipes/one-pan-baja-chicken-quesadillas-648888970b7af205da01b370
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (red onion, Roma tomato, lime, chicken breast strips, Blackening Spice, flour tortillas, pepper jack, Mexican cheese blend, sour cream, hot sauce) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 66. Miso Apricot Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/miso-apricot-chicken-67bc29c487e74f1041b22274
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, scallions, garlic, ginger, lime, jasmine rice, chicken cutlets, apricot jam, miso stock concentrate) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 67. Pork Katsu
+
+**Live URL:** https://www.hellofresh.com/recipes/pork-katsu-60b7888e36f1f834d819c122
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, scallions, ginger, jasmine rice, pork cutlets, garlic powder, sour cream, panko breadcrumbs, katsu sauce, sesame seeds) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 68. Salmon in a Creamy Dijon Chive Sauce
+
+**Live URL:** https://www.hellofresh.com/recipes/salmon-in-a-creamy-dijon-chive-sauce-61670c5727bc454a694fd451
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (Yukon Gold potatoes, zucchini, chives, lemon, salmon, Dijon mustard, veggie stock concentrate, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 69. Mediterranean Salmon
+
+**Live URL:** https://www.hellofresh.com/recipes/mediterranean-salmon-5ffc9664717f6e0f11468895
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (green beans, dill, lemon, French couscous, Za'atar Spice, salmon, veggie stock concentrate, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 70. Yogurt-Marinated Chicken with Garlic Sauce
+
+**Live URL:** https://www.hellofresh.com/recipes/yogurt-marinated-chicken-garlic-sauce-5fa5707c5227db09c15e3b34
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (garlic, lemon, carrots, chicken cutlets, Tunisian Spice Blend, yogurt, Israeli couscous, chicken stock concentrate, pistachios, cilantro, sour cream, chili flakes) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 71. Garlic Rosemary Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/garlic-rosemary-chicken-5cdee6430e764f000843aa7d
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, sweet potato, potatoes, rosemary, red onion, garlic, chicken breasts, chicken stock concentrate, flour) align with HelloFresh recipe (carrots + sweet potato + Yukon Gold potatoes roasted with rosemary).
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 72. Chicken Gyro Couscous Bowls
+
+**Live URL:** https://www.hellofresh.com/recipes/chicken-gyro-couscous-bowls-5db89647bf86901f1432f7a1
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (shallot, Persian cucumber, Roma tomato, dill, lemon, Israeli couscous, chicken stock concentrate, Za'atar Spice, chicken cutlets, feta, sour cream, hummus) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 73. Salmon Limone
+
+**Live URL:** https://www.hellofresh.com/recipes/salmon-limone-614b477d07c2532eb677c09c
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (scallions, zucchini, lemon, grape tomatoes, salmon, Israeli couscous, Italian Seasoning, chicken stock concentrate, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 74. Cherry Balsamic Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/cherry-balsamic-chicken-60eeee4c1afbf376a85e7a86
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (garlic, scallions, carrots, chicken breasts, Israeli couscous, sliced almonds, balsamic vinegar, cherry jam, chicken stock concentrate) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 75. Hibachi-Style Chicken Stir-Fry
+
+**Live URL:** https://www.hellofresh.com/recipes/hibachi-style-chicken-mushroom-stir-fry-63595303d5cedb8b900847c6
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (garlic, jasmine rice, long green pepper, yellow onion, chicken breast strips, mayo, sriracha, mushroom stock concentrate, ponzu sauce) align with HelloFresh hibachi-style stir-fry concept. Note: live versions may include zucchini/mushrooms and a different sauce mix; DB matches original card.
+
+**Verdict:** ✓ No changes needed (DB matches original card).
+
+
+---
+
+## 76. Spicy Peruvian Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/spicy-peruvian-chicken-and-loaded-rice-61a783ead3afc75ab13b975d
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (garlic, scallions, jalapeno, Roma tomato, cilantro, lime, jasmine rice, chicken cutlets, Fajita Spice Blend, chicken stock concentrate, mayonnaise, sour cream) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+
+---
+
+## 77. Lemon Za'atar Chicken
+
+**Live URL:** https://www.hellofresh.com/recipes/lemon-zaatar-chicken-60eef023f0590e4f0a2baa83
+**Subtitle:** matches
+
+**Ingredients:** DB ingredients (carrots, lemon, garlic, green herb blend, turmeric, white quinoa, Za'atar Spice, chicken stock concentrates, chicken cutlets, sour cream, honey, hot sauce) align with HelloFresh recipe.
+
+**Verdict:** ✓ No changes needed.
+
+---
+
+# 🎉 AUDIT COMPLETE — 77 of 77 HelloFresh Recipes
+
+## Summary
+
+- **77 recipes** audited against current HelloFresh pages
+- **~20 recipes** had fixes applied (calorie corrections, typos, missing ingredients, transcription errors, wrong sections)
+- **~57 recipes** matched cleanly with no changes needed
+
+## Most common issues found
+- **Calorie values** missing or incorrect on many recipes (filled in or corrected ~10 cases)
+- **Transcription errors**: lemon↔lime, Persian↔Mini cucumber, scallions misnamed as thyme, missing ingredients (shallot, cilantro, hot sauce, etc.)
+- **Numerical errors**: harissa amounts, butter amounts, almond quantities, carrot dimensions
+- **One title fix**: "Bean 'N' Cheesy" → "Bein' Cheesy"
+- **One typo fix**: "Shawurma" → "Shawarma" (corrected globally)
+- **One section fix**: Bravo Balsamic Chicken was in 🦃 Turkey, moved to 🐔 Chicken & Poultry
