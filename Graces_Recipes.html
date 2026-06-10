@@ -87,6 +87,26 @@
 </div>
 
 
+<div class="modal-backdrop" id="shopConfigBackdrop">
+  <div class="modal" style="max-width:520px">
+    <button class="modal-close" onclick="closeShopConfig()" aria-label="Close">&times;</button>
+    <h2 id="shopConfigTitle" style="font-size:20px;margin-bottom:4px"></h2>
+    <p style="color:var(--text-muted);font-size:14px;margin:0 0 16px">Choose servings and uncheck any ingredients you already have.</p>
+    <div style="margin-bottom:14px">
+      <span style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--text-muted)">Servings</span>
+      <span class="serving-toggle" style="margin-left:10px">
+        <button id="scSv2" onclick="shopConfigSetServings(2)">2</button>
+        <button id="scSv4" onclick="shopConfigSetServings(4)">4</button>
+      </span>
+    </div>
+    <div id="shopConfigIngList" style="border:1px solid var(--border);border-radius:8px;overflow:hidden;max-height:320px;overflow-y:auto"></div>
+    <div class="modal-actions" style="margin-top:16px">
+      <button class="btn primary" onclick="confirmShopConfig()">Add to shopping list</button>
+      <button class="btn" onclick="closeShopConfig()">Cancel</button>
+    </div>
+  </div>
+</div>
+
 <div class="shopping-panel" id="shoppingPanel">
   <div class="shopping-header">
     <h2>Shopping List</h2>
@@ -113,6 +133,8 @@ const state = {
   servings: 2,
   shopping: new Set(JSON.parse(localStorage.getItem('hf_shopping') || '[]')),
   favorites: new Set(JSON.parse(localStorage.getItem('hf_favorites') || '[]')),
+  shoppingServings: JSON.parse(localStorage.getItem('hf_shopping_servings') || '{}'),
+  shoppingExcluded: JSON.parse(localStorage.getItem('hf_shopping_excluded') || '{}'),
   currentModalId: null,
 };
 
@@ -333,10 +355,82 @@ function toggleFavorite(id) {
   renderGrid();
 }
 
+let shopConfigId = null;
+let shopConfigServings = 2;
+let shopConfigExcluded = new Set();
+
 function toggleShopping(id) {
-  if (state.shopping.has(id)) state.shopping.delete(id);
-  else state.shopping.add(id);
+  if (state.shopping.has(id)) {
+    state.shopping.delete(id);
+    if (state.shoppingServings) delete state.shoppingServings[id];
+    if (state.shoppingExcluded) delete state.shoppingExcluded[id];
+    localStorage.setItem('hf_shopping', JSON.stringify([...state.shopping]));
+    localStorage.setItem('hf_shopping_servings', JSON.stringify(state.shoppingServings || {}));
+    localStorage.setItem('hf_shopping_excluded', JSON.stringify(state.shoppingExcluded || {}));
+    renderGrid();
+    renderShoppingCount();
+    renderShoppingPanel();
+  } else {
+    openShopConfig(id);
+  }
+}
+
+function openShopConfig(id) {
+  const r = RECIPES[id];
+  if (!r) return;
+  shopConfigId = id;
+  shopConfigServings = 2;
+  shopConfigExcluded = new Set();
+  document.getElementById('shopConfigTitle').textContent = r.name;
+  shopConfigSetServings(2);
+  document.getElementById('shopConfigBackdrop').classList.add('open');
+}
+
+function closeShopConfig() {
+  document.getElementById('shopConfigBackdrop').classList.remove('open');
+  shopConfigId = null;
+}
+
+function shopConfigSetServings(n) {
+  shopConfigServings = n;
+  document.getElementById('scSv2').classList.toggle('active', n === 2);
+  document.getElementById('scSv4').classList.toggle('active', n === 4);
+  renderShopConfigIngList();
+}
+
+function renderShopConfigIngList() {
+  const r = RECIPES[shopConfigId];
+  if (!r) return;
+  const list = document.getElementById('shopConfigIngList');
+  list.innerHTML = r.ingredients.map((ing, i) => {
+    const qty = shopConfigServings === 2 ? ing.qty2 : ing.qty4;
+    const checked = !shopConfigExcluded.has(i);
+    return `<label class="shop-config-ing ${checked ? '' : 'excluded'}" style="display:flex;align-items:center;gap:10px;padding:9px 14px;cursor:pointer;border-bottom:1px solid var(--surface-2);font-size:14px">
+      <input type="checkbox" ${checked ? 'checked' : ''} onchange="shopConfigToggleIng(${i}, this.checked)" style="width:16px;height:16px;accent-color:var(--accent);flex-shrink:0">
+      <span style="flex:1">${escapeHtml(ing.clean_name || ing.name)}</span>
+      <span style="color:var(--text-muted);font-weight:600;white-space:nowrap">${escapeHtml(qty)}</span>
+    </label>`;
+  }).join('');
+}
+
+function shopConfigToggleIng(idx, checked) {
+  if (checked) shopConfigExcluded.delete(idx);
+  else shopConfigExcluded.add(idx);
+  const labels = document.getElementById('shopConfigIngList').querySelectorAll('label');
+  if (labels[idx]) labels[idx].classList.toggle('excluded', !checked);
+}
+
+function confirmShopConfig() {
+  if (shopConfigId == null) return;
+  state.shopping.add(shopConfigId);
+  state.shoppingServings = state.shoppingServings || {};
+  state.shoppingServings[shopConfigId] = shopConfigServings;
+  state.shoppingExcluded = state.shoppingExcluded || {};
+  state.shoppingExcluded[shopConfigId] = [...shopConfigExcluded];
   localStorage.setItem('hf_shopping', JSON.stringify([...state.shopping]));
+  localStorage.setItem('hf_shopping_servings', JSON.stringify(state.shoppingServings));
+  localStorage.setItem('hf_shopping_excluded', JSON.stringify(state.shoppingExcluded));
+  closeShopConfig();
   renderGrid();
   renderShoppingCount();
   renderShoppingPanel();
@@ -359,25 +453,31 @@ function renderShoppingPanel() {
     return;
   }
   const recipes = [...state.shopping].map(id => RECIPES[id]).filter(Boolean);
-  body.innerHTML = recipes.map(r => `
-    <div class="shopping-recipe">
+  body.innerHTML = recipes.map(r => {
+    const sv = (state.shoppingServings && state.shoppingServings[r._id]) || 2;
+    const excluded = new Set((state.shoppingExcluded && state.shoppingExcluded[r._id]) || []);
+    const included = r.ingredients.filter((_, i) => !excluded.has(i)).length;
+    return `<div class="shopping-recipe">
       <div class="shopping-recipe-title">
         <span>${escapeHtml(r.name)}</span>
         <button class="shopping-remove" onclick="toggleShopping(${r._id})">Remove</button>
       </div>
-      <div class="shopping-ings">${r.ingredients.length} ingredients &middot; ${escapeHtml(r.prep_time)} prep + ${escapeHtml(r.cook_time)} cook</div>
-    </div>
-  `).join('');
+      <div class="shopping-ings">${included} ingredient${included !== 1 ? 's' : ''} &middot; ${sv} servings &middot; ${escapeHtml(r.prep_time)} prep + ${escapeHtml(r.cook_time)} cook</div>
+    </div>`;
+  }).join('');
 }
 
 function consolidateShoppingList() {
-  const sv = state.servings;
-  // Group by ingredient name -> list of {value, unit, original}
   const groups = new Map();
+  const servingNotes = [];
   [...state.shopping].forEach(id => {
     const r = RECIPES[id];
     if (!r) return;
-    r.ingredients.forEach(i => {
+    const sv = (state.shoppingServings && state.shoppingServings[id]) || 2;
+    const excluded = new Set((state.shoppingExcluded && state.shoppingExcluded[id]) || []);
+    servingNotes.push(`  - ${r.name} (${sv} servings)`);
+    r.ingredients.forEach((i, idx) => {
+      if (excluded.has(idx)) return;
       const key = (i.clean_name || i.name).toLowerCase();
       const qty = sv === 2 ? i.qty2 : i.qty4;
       if (!groups.has(key)) groups.set(key, { name: i.clean_name || i.name, items: [], recipes: new Set() });
@@ -388,8 +488,7 @@ function consolidateShoppingList() {
   const lines = [...groups.values()].sort((a,b) => a.name.localeCompare(b.name)).map(g => {
     return `- ${g.name} -- ${combineQtyStrings(g.items)}`;
   });
-  const recipeList = [...state.shopping].map(id => '  - ' + RECIPES[id].name).join('\n');
-  const text = `Shopping List (for ${sv} servings each)\n${'='.repeat(40)}\n\n${lines.join('\n')}\n\nFrom these recipes:\n${recipeList}`;
+  const text = `Shopping List\n${'='.repeat(40)}\n\n${lines.join('\n')}\n\nFrom these recipes:\n${servingNotes.join('\n')}`;
   const body = document.getElementById('shoppingBody');
   const existing = body.querySelector('.consolidated-list');
   if (existing) existing.remove();
@@ -597,8 +696,11 @@ document.getElementById('clearFilters').onclick = () => {
 document.getElementById('modalBackdrop').onclick = (e) => {
   if (e.target.id === 'modalBackdrop') closeModal();
 };
+document.getElementById('shopConfigBackdrop').onclick = (e) => {
+  if (e.target.id === 'shopConfigBackdrop') closeShopConfig();
+};
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeModal();
+  if (e.key === 'Escape') { closeModal(); closeShopConfig(); }
 });
 
 // Expose for inline handlers
@@ -607,6 +709,10 @@ window.closeModal = closeModal;
 window.toggleFavorite = toggleFavorite;
 window.toggleShopping = toggleShopping;
 window.setServings = setServings;
+window.closeShopConfig = closeShopConfig;
+window.shopConfigSetServings = shopConfigSetServings;
+window.shopConfigToggleIng = shopConfigToggleIng;
+window.confirmShopConfig = confirmShopConfig;
 
 
 // ========= CUSTOM RECIPES =========
