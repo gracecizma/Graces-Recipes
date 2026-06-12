@@ -5,7 +5,7 @@ A personal database of my favorite recipes — mainly from HelloFresh, plus a ha
 ## Files
 
 - **`Graces_Recipes.html`** — the main app. Open it in any browser to browse, filter, search, and add recipes.
-- **`Graces-recipes.css`** - The style page. 
+- **`Graces-recipes.css`** — The style page. 
 - **`Graces_Recipes_Backup.json`** — JSON backup of the full recipe dataset.
 - **`Graces_Recipes_Backup.txt`** — plain-text backup, grouped by protein.
 - **`images/`** — local image folder 
