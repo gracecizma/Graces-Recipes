@@ -103,7 +103,7 @@
       "israeli",
       "lemon"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5edfb023df912542e8453f9d-115f4b4e-dd194c4b.jpg"
+    "image_url": "images/chimichurri-barramundi.jpg"
   },
   {
     "name": "Baja Barramundi",
@@ -224,7 +224,7 @@
       "turmeric",
       "white"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/622613357c9c171ebf1cab1c-ff95ba05.jpg"
+    "image_url": "images/baja-barramundi.jpg"
   },
   {
     "name": "Smoky Barramundi with a Brown Butter Drizzle",
@@ -320,7 +320,7 @@
       "sour",
       "yukon"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/61cb2c8d1d2ee557c24f38f8-5ccc4b4a-14084d4a.jpg"
+    "image_url": "images/smoky-barramundi-with-a-brown-butter-drizzle.jpg"
   },
   {
     "name": "Creamy Lemon Dill Salmon",
@@ -438,7 +438,7 @@
       "tomato",
       "za"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/creamy-lemon-dill-salmon-b7ca71a8-0f4b86a5.jpg"
+    "image_url": "images/creamy-lemon-dill-salmon.jpg"
   },
   {
     "name": "Mustard Soy Salmon",
@@ -564,7 +564,7 @@
       "white",
       "wine"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/6863c19d0203e9f8dbb4c6f8-8aaf7401.jpeg"
+    "image_url": "images/mustard-soy-salmon.jpg"
   },
   {
     "name": "Za'atar-Spiced Barramundi",
@@ -674,7 +674,7 @@
       "yogurt",
       "za"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/zaatar-spiced-barramundi-85708f8b-00483b8b.jpg"
+    "image_url": "images/za-atar-spiced-barramundi.jpg"
   },
   {
     "name": "Miso Ginger Barramundi",
@@ -803,7 +803,7 @@
       "sugar",
       "zucchini"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/miso-ginger-barramundi-93ae4ccf-44460691.jpg"
+    "image_url": "images/miso-ginger-barramundi.jpg"
   },
   {
     "name": "BBQ Chicken Quesadillas",
@@ -906,7 +906,7 @@
       "sour",
       "tortilla"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/bbq-chicken-quesadillas-8ba8a8b0-aa02dbf1.jpg"
+    "image_url": "images/bbq-chicken-quesadillas.jpg"
   },
   {
     "name": "Che Buono Chicken Spaghetti",
@@ -1017,7 +1017,10 @@
       "strip",
       "tomato"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/608023b47b3b15615c41dfa4-a72e05e1.jpg"
+    "image_url": "images/che-buono-chicken-spaghetti.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Chicken Penne Limone",
@@ -1123,7 +1126,7 @@
       "strip",
       "zucchini"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/penne-limone-with-chicken-af83edc0-2b50a735.jpg"
+    "image_url": "images/chicken-penne-limone.jpg"
   },
   {
     "name": "Creamy Chicken & Mushroom Cavatappi",
@@ -1235,7 +1238,10 @@
       "seasoning",
       "strip"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5e877f5413114d7b1f44174e-f97c652c-9b81425e.jpg"
+    "image_url": "images/creamy-chicken-mushroom-cavatappi.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Tuscan Chicken over Bulgur Pilaf",
@@ -1353,7 +1359,10 @@
       "yellow",
       "zucchini"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/tuscan-chicken-over-bulgur-586f4be3-6e146eb1.jpg"
+    "image_url": "images/tuscan-chicken-over-bulgur-pilaf.jpg",
+    "spice_blends": [
+      "Tuscan Heat Spice Blend"
+    ]
   },
   {
     "name": "BBQ Ranch Chicken Flatbreads",
@@ -1443,7 +1452,7 @@
       "strip",
       "white"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/bbq-ranch-chicken-flatbreads-75bb7930.jpg"
+    "image_url": "images/bbq-ranch-chicken-flatbreads.jpg"
   },
   {
     "name": "Creamy Dill Chicken",
@@ -1538,7 +1547,7 @@
       "sour",
       "yukon"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/605a4458d01b8e158a19db53-35d08577-74a1c522.jpg"
+    "image_url": "images/creamy-dill-chicken.jpg"
   },
   {
     "name": "Apricot-Sumac Chicken",
@@ -1661,7 +1670,7 @@
       "sumac",
       "zucchini"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/apricot-sumac-chicken-4354d2fc.jpg"
+    "image_url": "images/apricot-sumac-chicken.jpg"
   },
   {
     "name": "Blackened Chicken Penne",
@@ -1788,7 +1797,10 @@
       "strip",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/blackened-chicken-penne-99566c2a.jpg"
+    "image_url": "images/blackened-chicken-penne.jpg",
+    "spice_blends": [
+      "Blackening Spice Blend"
+    ]
   },
   {
     "name": "Yucatán Citrus Chicken Bowls",
@@ -1921,7 +1933,10 @@
       "tsp",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yucatan-citrus-chicken-bowls-7773a8da-1d5fe157.jpg"
+    "image_url": "images/yucat-n-citrus-chicken-bowls.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "Turkish-Spiced Chicken in Apricot Pan Sauce",
@@ -2036,7 +2051,10 @@
       "scallion",
       "sliced"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6138d8d05acb2c613858e349-be339f82.jpg"
+    "image_url": "images/turkish-spiced-chicken-in-apricot-pan-sauce.jpg",
+    "spice_blends": [
+      "Turkish Spice Blend"
+    ]
   },
   {
     "name": "Chicken Tabbouleh Bowls",
@@ -2147,7 +2165,7 @@
       "sour",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-tabbouleh-bowls-8b376b2d-230543c6.jpg"
+    "image_url": "images/chicken-tabbouleh-bowls.jpg"
   },
   {
     "name": "Paprika Chicken in a Lemony Sauce",
@@ -2261,7 +2279,7 @@
       "sour",
       "thyme"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6076d4a9912d7429ec352547-7f742805.jpg"
+    "image_url": "images/paprika-chicken-in-a-lemony-sauce.jpg"
   },
   {
     "name": "Za'atar-Spiced Chicken",
@@ -2386,7 +2404,7 @@
       "yogurt",
       "za"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/za-atar-crusted-chicken-39e6b94c-987bb777.jpg"
+    "image_url": "images/za-atar-spiced-chicken.jpg"
   },
   {
     "name": "Easy Bein' Cheesy Chicken Quesadillas",
@@ -2483,7 +2501,10 @@
       "sour",
       "tortilla"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/606473afb30cbd7eb243e1b8-9e37d0a0-9908d62d.jpg"
+    "image_url": "images/easy-bein-cheesy-chicken-quesadillas.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "Spicy Harissa Chicken Bowls",
@@ -2594,7 +2615,10 @@
       "tsp",
       "vinaigrette"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6203c5a400045f77c82970f5-6f7483d6-824803b9.jpg"
+    "image_url": "images/spicy-harissa-chicken-bowls.jpg",
+    "spice_blends": [
+      "Tunisian Spice Blend"
+    ]
   },
   {
     "name": "Gochujang-Glazed Chicken Bibimbap",
@@ -2739,7 +2763,7 @@
       "vinegar",
       "wine"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/gochujang-glazed-chicken-bibimbap-5cdbd088-ebb91164.jpg"
+    "image_url": "images/gochujang-glazed-chicken-bibimbap.jpg"
   },
   {
     "name": "Creamy Cilantro Steak Bowl",
@@ -2855,7 +2879,7 @@
       "sour",
       "steak"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/608024f5c51b92575d1134cd-1dad9812-d46a213b.jpg"
+    "image_url": "images/creamy-cilantro-steak-bowl.jpg"
   },
   {
     "name": "Cherry Balsamic Bavette Steak",
@@ -2970,7 +2994,10 @@
       "steak",
       "vinegar"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/622613126f9a7b726811a2cc-e2662838.jpg"
+    "image_url": "images/cherry-balsamic-bavette-steak.jpg",
+    "spice_blends": [
+      "Herbes de Provence"
+    ]
   },
   {
     "name": "Steak with Mushroom Cream Sauce",
@@ -3072,7 +3099,7 @@
       "steak",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6231f2c98cae5f6cde4c6187-1cfdad77-a95a8925.jpg"
+    "image_url": "images/steak-with-mushroom-cream-sauce.jpg"
   },
   {
     "name": "Middle Eastern Steak & Rice Pilaf",
@@ -3207,7 +3234,7 @@
       "yogurt",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5fea5a70e36d41789a2a6e4d-7425d08e-00b0fa01.jpg"
+    "image_url": "images/middle-eastern-steak-rice-pilaf.jpg"
   },
   {
     "name": "Figgy Balsamic Pork",
@@ -3309,7 +3336,7 @@
       "vinegar",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/66703c8698f15bd5272cf984-b1168a7a.jpeg"
+    "image_url": "images/figgy-balsamic-pork.jpg"
   },
   {
     "name": "Sweet & Smoky Pork Tenderloin",
@@ -3418,7 +3445,10 @@
       "wine",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5ea7100e77d519361f777cb4-d38061f6.jpg"
+    "image_url": "images/sweet-smoky-pork-tenderloin.jpg",
+    "spice_blends": [
+      "Smoky Cinnamon Paprika Spice Blend"
+    ]
   },
   {
     "name": "Cranberry Dijon Pork Tenderloin",
@@ -3536,7 +3566,7 @@
       "tenderloin",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/620c20477454ef67eb6b38ae-760eec18-56c832fe.jpg"
+    "image_url": "images/cranberry-dijon-pork-tenderloin.jpg"
   },
   {
     "name": "Pork Sausage & Bell Pepper Risotto",
@@ -3645,7 +3675,10 @@
       "scallion",
       "seasoning"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/617041791f771a6a0b36e4b2-05685a8a-b753041b.jpg"
+    "image_url": "images/pork-sausage-bell-pepper-risotto.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Balsamic Rosemary Pork Chops",
@@ -3739,7 +3772,7 @@
       "sugar",
       "vinegar"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61cb2476d71940215d37063e-e8f41a59.jpg"
+    "image_url": "images/balsamic-rosemary-pork-chops.jpg"
   },
   {
     "name": "Pork Sausage Spaghetti Bolognese",
@@ -3837,7 +3870,10 @@
       "tuscan",
       "zucchini"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/5e5fb1a37d29a46aa45ffa13-b1fb90f6.jpg"
+    "image_url": "images/pork-sausage-spaghetti-bolognese.jpg",
+    "spice_blends": [
+      "Tuscan Heat Spice Blend"
+    ]
   },
   {
     "name": "Cranberry Dijon Pork Chops",
@@ -3937,7 +3973,7 @@
       "rosemary",
       "sprout"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/cranberry-dijon-pork-chops-c7d24ad5-9436f721.jpg"
+    "image_url": "images/cranberry-dijon-pork-chops.jpg"
   },
   {
     "name": "Chimichurri Pork Tenderloin",
@@ -4045,7 +4081,7 @@
       "rice",
       "tenderloin"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5e5026b99e16cc20fb4c09c8-e737101b.jpg"
+    "image_url": "images/chimichurri-pork-tenderloin.jpg"
   },
   {
     "name": "Pork Al Pastor Bowls",
@@ -4187,7 +4223,7 @@
       "tomato",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/pork-al-pastor-bowls-455fad0c.jpg"
+    "image_url": "images/pork-al-pastor-bowls.jpg"
   },
   {
     "name": "Honey Thyme Pork Tenderloin",
@@ -4282,7 +4318,7 @@
       "thyme",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/615db8f220008b2e0307f097-7cf15518-5e526453.jpg"
+    "image_url": "images/honey-thyme-pork-tenderloin.jpg"
   },
   {
     "name": "Sweet Thai Chili Pork Tenderloin",
@@ -4393,7 +4429,7 @@
       "tenderloin",
       "thai"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sweet-thai-chili-pork-tenderloin-6a1f81d8-b52f3acf.jpg"
+    "image_url": "images/sweet-thai-chili-pork-tenderloin.jpg"
   },
   {
     "name": "Sesame Soy Pork Bowls",
@@ -4500,7 +4536,7 @@
       "sweet",
       "tsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_1920,f_auto,c_limit,fl_lossy/recipes/image/5fa06a5f20b9661c0d5e342f-9d881539-9859fadd.jpg"
+    "image_url": "images/sesame-soy-pork-bowls.jpg"
   },
   {
     "name": "Butternut Squash Agnolotti",
@@ -4593,7 +4629,7 @@
       "squash",
       "walnut"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/664cabb65e4dc3c6a6a94110-529c675f.jpeg"
+    "image_url": "images/butternut-squash-agnolotti.jpg"
   },
   {
     "name": "Sun-Dried Tomato Spaghetti",
@@ -4704,7 +4740,7 @@
       "sun",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6231ef8d59a1d65a30536f97-a00746c3.jpg"
+    "image_url": "images/sun-dried-tomato-spaghetti.jpg"
   },
   {
     "name": "Bacon & Scallop Mushroom Risotto",
@@ -4815,7 +4851,7 @@
       "scallop",
       "shallot"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bacon-scallop-mushroom-risotto-7185e070.jpg"
+    "image_url": "images/bacon-scallop-mushroom-risotto.jpg"
   },
   {
     "name": "Gnocchi with Spinach & Heirloom Tomatoes",
@@ -4932,7 +4968,7 @@
       "spinach",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5fea5b5d27c560013957dcf9-b9960379-fc6f58a2.jpg"
+    "image_url": "images/gnocchi-with-spinach-heirloom-tomatoes.jpg"
   },
   {
     "name": "Pan-Fried Garlic Herb Gnocchi",
@@ -5016,7 +5052,7 @@
       "tomato",
       "tsp"
     ],
-    "image_url": "https://img.hellofresh.com/hellofresh_s3/image/pan-fried-garlic-herb-gnocchi-b98a3cc7-bf3333de.jpg"
+    "image_url": "images/pan-fried-garlic-herb-gnocchi.jpg"
   },
   {
     "name": "One-Pan Mushroom Gnocchi",
@@ -5121,7 +5157,10 @@
       "sun",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-mushroom-gnocchi-97bfbdad-6964b549.jpg"
+    "image_url": "images/one-pan-mushroom-gnocchi.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Chickpea-Powered Mediterranean Couscous",
@@ -5348,7 +5387,7 @@
       "tomato",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/mushroom-chive-risotto-23897b89.jpg"
+    "image_url": "images/chickpea-powered-mediterranean-couscous.jpg"
   },
   {
     "name": "Pork Sausage & Pea Risotto",
@@ -5443,7 +5482,7 @@
       "sausage",
       "shallot"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/2019-w22-r5-sausage-and-spring-pea-risotto-36699460.jpg"
+    "image_url": "images/pork-sausage-pea-risotto.jpg"
   },
   {
     "name": "One-Pan Pasta Primavera",
@@ -5551,7 +5590,10 @@
       "seasoning",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/63fe379d1577033fb2010fc3-5354cfcd.jpg"
+    "image_url": "images/one-pan-pasta-primavera.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Penne Rustica with a Kick",
@@ -5664,7 +5706,7 @@
       "sliced",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/611d24bd032adf23706a9b21-eb0ac76c-5d9f846e.jpg"
+    "image_url": "images/penne-rustica-with-a-kick.jpg"
   },
   {
     "name": "BBQ Pineapple Flatbreads",
@@ -5769,7 +5811,7 @@
       "vinegar",
       "wine"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/620c20eaaf420111a021e19a-39cd781c.jpg"
+    "image_url": "images/bbq-pineapple-flatbreads.jpg"
   },
   {
     "name": "Hot Honey Brussels & Lemon Ricotta Flatbread",
@@ -5865,7 +5907,10 @@
       "seasoning",
       "sprout"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_1920,f_auto,c_limit,fl_lossy/recipes/image/6203c4a92a465d7f3e08ea40-17a42e9d.jpg"
+    "image_url": "images/hot-honey-brussels-lemon-ricotta-flatbread.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Zucchini & Tomato Flatbreads",
@@ -5969,7 +6014,7 @@
       "tomato",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/zucchini-and-tomato-flatbreads-cf443dcd.jpg"
+    "image_url": "images/zucchini-tomato-flatbreads.jpg"
   },
   {
     "name": "Shawarma-Spiced Halloumi",
@@ -6101,7 +6146,10 @@
       "sour",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6239d858457d6e66121a17e0-74e965d0-e85b0ff9.jpg"
+    "image_url": "images/shawarma-spiced-halloumi.jpg",
+    "spice_blends": [
+      "Shawarma Spice Blend"
+    ]
   },
   {
     "name": "Spicy Peanut Szechuan Veggie Stir-Fry",
@@ -6215,7 +6263,7 @@
       "vinegar",
       "wine"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-szechuan-veggie-noodle-stir-fry-8d7079b3-d26bb862.jpg"
+    "image_url": "images/spicy-peanut-szechuan-veggie-stir-fry.jpg"
   },
   {
     "name": "Street Cart-Style Turkey Bowls",
@@ -6356,7 +6404,10 @@
       "turmeric",
       "whole"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/621e8a34eae5940f43614ace-6119f0cc.jpg"
+    "image_url": "images/street-cart-style-turkey-bowls.jpg",
+    "spice_blends": [
+      "Shawarma Spice Blend"
+    ]
   },
   {
     "name": "One-Pan Steak & Green Pepper Quesadillas",
@@ -6463,7 +6514,10 @@
       "steak",
       "tortilla"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/steak-green-pepper-quesadillas-98636bb4.jpg"
+    "image_url": "images/one-pan-steak-green-pepper-quesadillas.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "Black Bean & Poblano Quesadillas",
@@ -6581,7 +6635,10 @@
       "tomato",
       "tortilla"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-black-bean-poblano-quesadillas-10ffd317.jpg"
+    "image_url": "images/black-bean-poblano-quesadillas.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "Hoisin Honey Chicken",
@@ -6688,7 +6745,7 @@
       "strip",
       "tbsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61a7d17e4173da41a34381f2-8ed7a826-6e7d92c6.jpg"
+    "image_url": "images/hoisin-honey-chicken.jpg"
   },
   {
     "name": "Bravo Balsamic Chicken",
@@ -6788,7 +6845,10 @@
       "vinegar",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bravo-balsamic-chicken-808762d4-736898a0.jpg"
+    "image_url": "images/bravo-balsamic-chicken.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Teriyaki Ginger Salmon",
@@ -6901,7 +6961,7 @@
       "white",
       "wine"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/68caa9564b065ac03dc0d232-9fdf4da8.jpeg"
+    "image_url": "images/teriyaki-ginger-salmon.jpg"
   },
   {
     "name": "Spicy Tunisian Bulgur Bowls",
@@ -7033,7 +7093,10 @@
       "tomato",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-tunisian-bulgur-bowls-d10e22cc-224feabf.jpg"
+    "image_url": "images/spicy-tunisian-bulgur-bowls.jpg",
+    "spice_blends": [
+      "Tunisian Spice Blend"
+    ]
   },
   {
     "name": "Crispy Chickpea Couscous Bowls",
@@ -7160,7 +7223,10 @@
       "tbsp",
       "tsp"
     ],
-    "image_url": ""
+    "image_url": "",
+    "spice_blends": [
+      "Tunisian Spice Blend"
+    ]
   },
   {
     "name": "Cherry Balsamic Pork Chops",
@@ -7252,7 +7318,7 @@
       "vinegar",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5d3b35cce203d2000828c3e1-c3f56b01.jpg"
+    "image_url": "images/crispy-chickpea-couscous-bowls.jpg"
   },
   {
     "name": "Yogurt-Marinated Curried Chicken",
@@ -7371,7 +7437,7 @@
       "sour",
       "yogurt"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yogurt-marinated-curried-chicken-007a1b39-307722fd.jpg"
+    "image_url": "images/yogurt-marinated-curried-chicken.jpg"
   },
   {
     "name": "Chicken Au Poivre",
@@ -7464,7 +7530,7 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61e7023d4029aa25527edc93-f170469d-24ecc13e.jpg"
+    "image_url": "images/chicken-au-poivre.jpg"
   },
   {
     "name": "Sesame Chili Pork Chops & Veggie Stir-Fry",
@@ -7581,7 +7647,7 @@
       "thai",
       "tsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sesame-chili-pork-chops-veggie-stir-fry-e137a7bd-6653c4fb.jpg"
+    "image_url": "images/sesame-chili-pork-chops-veggie-stir-fry.jpg"
   },
   {
     "name": "Hey, Honey! Salmon",
@@ -7667,7 +7733,10 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6113d8a40dbe48785c37b3f5-95c14323-d4f4536f.jpg"
+    "image_url": "images/hey-honey-salmon.jpg",
+    "spice_blends": [
+      "Fry Seasoning"
+    ]
   },
   {
     "name": "One-Pan Moroccan Chicken & Couscous",
@@ -7794,7 +7863,10 @@
       "tsp",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/moroccan-chicken-couscous-skillet-5b35a834-ea4b792c.jpg"
+    "image_url": "images/one-pan-moroccan-chicken-couscous.jpg",
+    "spice_blends": [
+      "Tunisian Spice Blend"
+    ]
   },
   {
     "name": "Spiced Chicken in Apricot Sauce",
@@ -7912,7 +7984,10 @@
       "tomato",
       "yogurt"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spiced-chicken-in-apricot-sauce-6330b05f-9c761589.jpg"
+    "image_url": "images/spiced-chicken-in-apricot-sauce.jpg",
+    "spice_blends": [
+      "Shawarma Spice Blend"
+    ]
   },
   {
     "name": "One-Pan Cheesy Beef Tortilla Melts",
@@ -8011,7 +8086,7 @@
       "tortilla",
       "tsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/624326ad6cfe6a76cd3ae4c6-b1c92148-a2772819.jpg"
+    "image_url": "images/one-pan-cheesy-beef-tortilla-melts.jpg"
   },
   {
     "name": "Sheet Pan Chicken & Pepper Fajitas",
@@ -8127,7 +8202,7 @@
       "tsp",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/615db681c4d9f2725126da76-4a843d25-5fb778ab.jpg"
+    "image_url": "images/sheet-pan-chicken-pepper-fajitas.jpg"
   },
   {
     "name": "Sweet Ginger Pork Chops",
@@ -8216,7 +8291,7 @@
       "rice",
       "tbsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/sweet-ginger-pork-chops-03f04909-19f0d758.jpg"
+    "image_url": "images/sweet-ginger-pork-chops.jpg"
   },
   {
     "name": "Creamy Dill Pork Cutlets",
@@ -8306,7 +8381,7 @@
       "sour",
       "tbsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/60646fd54752ff61a8697ba5-304a8a77-e2dc4680.jpg"
+    "image_url": "images/creamy-dill-pork-cutlets.jpg"
   },
   {
     "name": "Mexican Chicken & Rice Bowls",
@@ -8436,7 +8511,10 @@
       "tsp",
       "turmeric"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61cb2b928e2ddc4eb77eebc2-34ed84b7-50211110.jpg"
+    "image_url": "images/mexican-chicken-rice-bowls.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "One-Pan Rajas Quesadillas",
@@ -8555,7 +8633,10 @@
       "vinegar",
       "wine"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/one-pan-rajas-quesadillas-997eef7d-8f4fe8a3.jpg"
+    "image_url": "images/one-pan-rajas-quesadillas.jpg",
+    "spice_blends": [
+      "Southwest Spice Blend"
+    ]
   },
   {
     "name": "Bulgogi Pork Tenderloin",
@@ -8648,7 +8729,7 @@
       "tenderloin",
       "tsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/bulgogi-pork-tenderloin-84b2ebd0.jpg"
+    "image_url": "images/bulgogi-pork-tenderloin.jpg"
   },
   {
     "name": "Rosemary Demi-Glace Pork Chops",
@@ -8744,7 +8825,7 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/609bd7fb1ea45f265b6d3ff1-99bab7db.jpg"
+    "image_url": "images/rosemary-demi-glace-pork-chops.jpg"
   },
   {
     "name": "Italian Chicken over Lemony Spaghetti",
@@ -8857,7 +8938,10 @@
       "tsp",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61f04a680a801820a523ed9c-5fcc421f.jpg"
+    "image_url": "images/italian-chicken-over-lemony-spaghetti.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Duck a l'Orange",
@@ -8987,7 +9071,7 @@
       "wine",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/duck-a-l-orange-761c9556.jpg"
+    "image_url": "images/duck-a-l-orange.jpg"
   },
   {
     "name": "Creamy Lemon Butter Chicken",
@@ -9102,7 +9186,10 @@
       "tuscan",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5e7a45486336ee1f19459513-37e902ea-952dc5ab.jpg"
+    "image_url": "images/creamy-lemon-butter-chicken.jpg",
+    "spice_blends": [
+      "Tuscan Heat Spice Blend"
+    ]
   },
   {
     "name": "Balsamic Fig Chicken",
@@ -9209,7 +9296,7 @@
       "vinegar",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5eb19d14cd626b0b360327ee-c03bae1f-40a22c20.jpg"
+    "image_url": "images/balsamic-fig-chicken.jpg"
   },
   {
     "name": "Hoisin-Glazed Pork Tenderloin",
@@ -9324,7 +9411,7 @@
       "tbsp",
       "tenderloin"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/hoisin-glazed-pork-tenderloin-b3aeeb0e.jpg"
+    "image_url": "images/hoisin-glazed-pork-tenderloin.jpg"
   },
   {
     "name": "Brown Sugar Bourbon Apple Pork Chops",
@@ -9429,7 +9516,7 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/6434eb74d77e4cc6860bf922-17d4992a.jpg"
+    "image_url": "images/brown-sugar-bourbon-apple-pork-chops.jpg"
   },
   {
     "name": "One-Pan Baja Chicken Quesadillas",
@@ -9547,7 +9634,10 @@
       "tomato",
       "tortilla"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/648888970b7af205da01b370-c4eb04a5.jpeg"
+    "image_url": "images/one-pan-baja-chicken-quesadillas.jpg",
+    "spice_blends": [
+      "Blackening Spice Blend"
+    ]
   },
   {
     "name": "Miso Apricot Chicken",
@@ -9651,7 +9741,7 @@
       "scallion",
       "tbsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/622610b649990671902672e3-17151a87.jpg"
+    "image_url": "images/miso-apricot-chicken.jpg"
   },
   {
     "name": "Pork Katsu",
@@ -9767,7 +9857,7 @@
       "tbsp",
       "vegetable"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/pork-katsu-c150cfba-7854a16e.jpg"
+    "image_url": "images/pork-katsu.jpg"
   },
   {
     "name": "Salmon in a Creamy Dijon Chive Sauce",
@@ -9863,7 +9953,7 @@
       "yukon",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/61670c5727bc454a694fd451-28604574-7798068e.jpg"
+    "image_url": "images/salmon-in-a-creamy-dijon-chive-sauce.jpg"
   },
   {
     "name": "Mediterranean Salmon",
@@ -9962,7 +10052,7 @@
       "vegetable",
       "za"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/mediterranean-salmon-0f503f3e-70d68c8a.jpg"
+    "image_url": "images/mediterranean-salmon.jpg"
   },
   {
     "name": "Yogurt-Marinated Chicken with Garlic Sauce",
@@ -10086,7 +10176,10 @@
       "tsp",
       "yogurt"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/yogurt-marinated-chicken-garlic-sauce-8393b451.jpg"
+    "image_url": "images/yogurt-marinated-chicken-with-garlic-sauce.jpg",
+    "spice_blends": [
+      "Tunisian Spice Blend"
+    ]
   },
   {
     "name": "Garlic Rosemary Chicken",
@@ -10182,7 +10275,7 @@
       "sweet",
       "tbsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/5cdee6430e764f000843aa7d-61f270f9.jpg"
+    "image_url": "images/garlic-rosemary-chicken.jpg"
   },
   {
     "name": "Chicken Gyro Couscous Bowls",
@@ -10307,7 +10400,7 @@
       "tbsp",
       "tomato"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-gyro-couscous-bowls-753b1e88.jpg"
+    "image_url": "images/chicken-gyro-couscous-bowls.jpg"
   },
   {
     "name": "Salmon Limone",
@@ -10411,7 +10504,10 @@
       "tomato",
       "zucchini"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/614b477d07c2532eb677c09c-a12c2ae7.jpg"
+    "image_url": "images/salmon-limone.jpg",
+    "spice_blends": [
+      "Italian Seasoning"
+    ]
   },
   {
     "name": "Cherry Balsamic Chicken",
@@ -10516,7 +10612,7 @@
       "tbsp",
       "vinegar"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/60eeee4c1afbf376a85e7a86-6a9f8caa-b138d3c3.jpg"
+    "image_url": "images/cherry-balsamic-chicken.jpg"
   },
   {
     "name": "Hibachi-Style Chicken Stir-Fry",
@@ -10627,7 +10723,7 @@
       "tsp",
       "yellow"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/hibachi-style-mushroom-stir-fry-527f8588-61a83137.jpg"
+    "image_url": "images/hibachi-style-chicken-stir-fry.jpg"
   },
   {
     "name": "Spicy Peruvian Chicken",
@@ -10754,7 +10850,7 @@
       "tomato",
       "tsp"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/spicy-peruvian-chicken-and-loaded-rice-c58214d2-eb13fb14.jpg"
+    "image_url": "images/spicy-peruvian-chicken.jpg"
   },
   {
     "name": "Lemon Za'atar Chicken",
@@ -10884,10 +10980,11 @@
       "white",
       "za"
     ],
-    "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/lemon-zaatar-chicken-f822018f-a6c48635.jpg"
+    "image_url": "images/lemon-za-atar-chicken.jpg"
   },
   {
     "name": "Blackened Chicken with Cheesy Grits & Broccoli",
+    "section": "",
     "subtitle": "Spiced-up chicken with deliciously creamy grits & broccoli",
     "prep_time": "3 min",
     "cook_time": "15 min",
@@ -10985,10 +11082,11 @@
       "smoked",
       "sugar"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/powder-03-202309.png_merge_recipes/bohGTi1zy0i1cw.png.jpg"
+    "image_url": "images/blackened-chicken-with-cheesy-grits-broccoli.jpg"
   },
   {
     "name": "Salmon & Mushrooms with Rice",
+    "section": "",
     "subtitle": "Soy sauce flavors the salmon & mushrooms in this comforting rice bowl",
     "prep_time": "6 min",
     "cook_time": "20 min",
@@ -11070,10 +11168,11 @@
       "white",
       "whole"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/kale-04-202309.png_merge_recipes/paC4LTm0aHXmDA.png.jpg"
+    "image_url": "images/salmon-mushrooms-with-rice.jpg"
   },
   {
     "name": "Chicken with Orzo & Cheesy Fall Veggies",
+    "section": "",
     "subtitle": "When the leaves start falling, butternut squash comes calling",
     "prep_time": "8 min",
     "cook_time": "40 min",
@@ -11164,10 +11263,11 @@
       "shredded",
       "squash"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/kale-01-202309.png_merge_recipes/04yw0xSFJWBowA.png.jpg"
+    "image_url": "images/chicken-with-orzo-cheesy-fall-veggies.jpg"
   },
   {
     "name": "Cauliflower Rice Risotto with Chicken",
+    "section": "",
     "subtitle": "A lighter version of risotto, full of flavor, veggies & tasty chicken",
     "prep_time": "3 min",
     "cook_time": "28 min",
@@ -11259,10 +11359,11 @@
       "spinach",
       "whole"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/yolk-03-202309.png_merge_recipes/MfVIEMw0Jf0FFA.png.jpg"
+    "image_url": "images/cauliflower-rice-risotto-with-chicken.jpg"
   },
   {
     "name": "Thai-Inspired Chicken & Basil Stir Fry",
+    "section": "",
     "subtitle": "Fragrant fresh basil brightens up this Thai-inspired stir fry",
     "prep_time": "4 min",
     "cook_time": "15 min",
@@ -11351,10 +11452,11 @@
       "shallot",
       "sugar"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/EGnybj88TrpuyQ.png.jpg"
+    "image_url": "images/thai-inspired-chicken-basil-stir-fry.jpg"
   },
   {
     "name": "Chicken Tex-Mex Bowl",
+    "section": "",
     "subtitle": "A colorful, Tex-Mex bowl that's hard to pass up",
     "prep_time": "3 min",
     "cook_time": "15 min",
@@ -11444,10 +11546,11 @@
       "taco",
       "white"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/kale-01-202309.png_merge_recipes/MC89VNTL2a6l0g.png.jpg"
+    "image_url": "images/chicken-tex-mex-bowl.jpg"
   },
   {
     "name": "Creamy Curry Udon Noodles with Mushrooms",
+    "section": "",
     "subtitle": "A deliciously savory udon noodle dish you'll want seconds of",
     "prep_time": "6 min",
     "cook_time": "8 min",
@@ -11535,10 +11638,11 @@
       "white",
       "whole"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/beet-03-202309.png_merge_recipes/O0c5zvvRTxp4Kw.png.jpg"
+    "image_url": "images/creamy-curry-udon-noodles-with-mushrooms.jpg"
   },
   {
     "name": "Chicken Pesto Pasta",
+    "section": "",
     "subtitle": "Comforting pesto pasta with juicy chicken",
     "prep_time": "6 min",
     "cook_time": "20 min",
@@ -11620,10 +11724,11 @@
       "powder",
       "rotini"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/KBoS60bUYtHGig.png.jpg"
+    "image_url": "images/chicken-pesto-pasta.jpg"
   },
   {
     "name": "Cheesy Veggie Pasta",
+    "section": "",
     "subtitle": "A quick, veggie-packed macaroni the whole family will love",
     "prep_time": "4 min",
     "cook_time": "15 min",
@@ -11701,10 +11806,11 @@
       "shredded",
       "spinach"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/yolk-02-202309.png_merge_recipes/gSmSOl5qyzUcQQ.png.jpg"
+    "image_url": "images/cheesy-veggie-pasta.jpg"
   },
   {
     "name": "Yogurt Curry Chicken with Cauliflower & Rice",
+    "section": "",
     "subtitle": "Crispy yet tender chicken — the best of both worlds",
     "prep_time": "10 min",
     "cook_time": "40 min",
@@ -11787,10 +11893,11 @@
       "white",
       "yogurt"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/powder-02-202309.png_merge_recipes/GLeXECUgU21caQ.png.jpg"
+    "image_url": "images/yogurt-curry-chicken-with-cauliflower-rice.jpg"
   },
   {
     "name": "Harissa Salmon with Couscous & Cucumber",
+    "section": "",
     "subtitle": "Spicy North African chili paste livens up this summery dish",
     "prep_time": "6 min",
     "cook_time": "6 min",
@@ -11887,10 +11994,11 @@
       "salmon",
       "shallot"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/raddish-03-202309.png_merge_recipes/xuZQfba4fvStTw.png.jpg"
+    "image_url": "images/harissa-salmon-with-couscous-cucumber.jpg"
   },
   {
     "name": "Creamy Mushroom Chicken with Polenta",
+    "section": "",
     "subtitle": "A deliciously creamy chicken dish — the perfect meal for a long week",
     "prep_time": "5 min",
     "cook_time": "30 min",
@@ -11975,10 +12083,11 @@
       "whole",
       "yellow"
     ],
-    "image_url": "https://static.jow.fr/550x550/patterns/beet-04-202309.png_merge_recipes/TVTyokiNb6iZ9A.png.jpg"
+    "image_url": "images/creamy-mushroom-chicken-with-polenta.jpg"
   },
   {
     "name": "Easiest Chicken Adobo",
+    "section": "",
     "subtitle": "Filipino-style braised chicken in vinegar, soy & garlic, served over rice (Bon Appétit)",
     "prep_time": "15 min",
     "cook_time": "50 min",
@@ -12102,6 +12211,6 @@
       "vinegar",
       "white"
     ],
-    "image_url": "https://assets.bonappetit.com/photos/59dfb869d4ce5d0f9308549b/1:1/w_1920,c_limit/chicken-adobo.jpg"
+    "image_url": "images/easiest-chicken-adobo.jpg"
   }
 ]
