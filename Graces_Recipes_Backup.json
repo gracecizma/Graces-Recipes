@@ -1020,6 +1020,9 @@
     "image_url": "images/che-buono-chicken-spaghetti.jpg",
     "spice_blends": [
       "Italian Seasoning"
+    ],
+    "premade_sauces": [
+      "Cream Sauce Base"
     ]
   },
   {
@@ -1126,7 +1129,10 @@
       "strip",
       "zucchini"
     ],
-    "image_url": "images/chicken-penne-limone.jpg"
+    "image_url": "images/chicken-penne-limone.jpg",
+    "premade_sauces": [
+      "Cream Sauce Base"
+    ]
   },
   {
     "name": "Creamy Chicken & Mushroom Cavatappi",
@@ -1241,6 +1247,9 @@
     "image_url": "images/creamy-chicken-mushroom-cavatappi.jpg",
     "spice_blends": [
       "Italian Seasoning"
+    ],
+    "premade_sauces": [
+      "Cream Sauce Base"
     ]
   },
   {
@@ -1936,6 +1945,9 @@
     "image_url": "images/yucat-n-citrus-chicken-bowls.jpg",
     "spice_blends": [
       "Southwest Spice Blend"
+    ],
+    "premade_sauces": [
+      "Tex-Mex Paste"
     ]
   },
   {
@@ -2504,6 +2516,9 @@
     "image_url": "images/easy-bein-cheesy-chicken-quesadillas.jpg",
     "spice_blends": [
       "Southwest Spice Blend"
+    ],
+    "premade_sauces": [
+      "Smoky Red Pepper Crema"
     ]
   },
   {
@@ -2997,6 +3012,9 @@
     "image_url": "images/cherry-balsamic-bavette-steak.jpg",
     "spice_blends": [
       "Herbes de Provence"
+    ],
+    "premade_sauces": [
+      "Beef Demi-Glace"
     ]
   },
   {
@@ -3772,7 +3790,10 @@
       "sugar",
       "vinegar"
     ],
-    "image_url": "images/balsamic-rosemary-pork-chops.jpg"
+    "image_url": "images/balsamic-rosemary-pork-chops.jpg",
+    "premade_sauces": [
+      "Garlic Herb Butter"
+    ]
   },
   {
     "name": "Pork Sausage Spaghetti Bolognese",
@@ -4536,7 +4557,10 @@
       "sweet",
       "tsp"
     ],
-    "image_url": "images/sesame-soy-pork-bowls.jpg"
+    "image_url": "images/sesame-soy-pork-bowls.jpg",
+    "premade_sauces": [
+      "Sweet Soy Glaze"
+    ]
   },
   {
     "name": "Butternut Squash Agnolotti",
@@ -5052,7 +5076,10 @@
       "tomato",
       "tsp"
     ],
-    "image_url": "images/pan-fried-garlic-herb-gnocchi.jpg"
+    "image_url": "images/pan-fried-garlic-herb-gnocchi.jpg",
+    "premade_sauces": [
+      "Garlic Herb Butter"
+    ]
   },
   {
     "name": "One-Pan Mushroom Gnocchi",
@@ -5160,6 +5187,9 @@
     "image_url": "images/one-pan-mushroom-gnocchi.jpg",
     "spice_blends": [
       "Italian Seasoning"
+    ],
+    "premade_sauces": [
+      "Cream Sauce Base"
     ]
   },
   {
@@ -5387,7 +5417,10 @@
       "tomato",
       "yellow"
     ],
-    "image_url": "images/chickpea-powered-mediterranean-couscous.jpg"
+    "image_url": "images/chickpea-powered-mediterranean-couscous.jpg",
+    "premade_sauces": [
+      "Garlic Herb Butter"
+    ]
   },
   {
     "name": "Pork Sausage & Pea Risotto",
@@ -5593,6 +5626,9 @@
     "image_url": "images/one-pan-pasta-primavera.jpg",
     "spice_blends": [
       "Italian Seasoning"
+    ],
+    "premade_sauces": [
+      "Cheese Roux Concentrate"
     ]
   },
   {
@@ -5706,7 +5742,10 @@
       "sliced",
       "tomato"
     ],
-    "image_url": "images/penne-rustica-with-a-kick.jpg"
+    "image_url": "images/penne-rustica-with-a-kick.jpg",
+    "premade_sauces": [
+      "Garlic Herb Butter"
+    ]
   },
   {
     "name": "BBQ Pineapple Flatbreads",
@@ -6263,7 +6302,11 @@
       "vinegar",
       "wine"
     ],
-    "image_url": "images/spicy-peanut-szechuan-veggie-stir-fry.jpg"
+    "image_url": "images/spicy-peanut-szechuan-veggie-stir-fry.jpg",
+    "premade_sauces": [
+      "Sweet Soy Glaze",
+      "Szechuan Paste"
+    ]
   },
   {
     "name": "Street Cart-Style Turkey Bowls",
@@ -6517,6 +6560,9 @@
     "image_url": "images/one-pan-steak-green-pepper-quesadillas.jpg",
     "spice_blends": [
       "Southwest Spice Blend"
+    ],
+    "premade_sauces": [
+      "Smoky Red Pepper Crema"
     ]
   },
   {
@@ -7530,7 +7576,10 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "images/chicken-au-poivre.jpg"
+    "image_url": "images/chicken-au-poivre.jpg",
+    "premade_sauces": [
+      "Chicken Demi-Glace"
+    ]
   },
   {
     "name": "Sesame Chili Pork Chops & Veggie Stir-Fry",
@@ -8514,6 +8563,9 @@
     "image_url": "images/mexican-chicken-rice-bowls.jpg",
     "spice_blends": [
       "Southwest Spice Blend"
+    ],
+    "premade_sauces": [
+      "Tex-Mex Paste"
     ]
   },
   {
@@ -8825,7 +8877,10 @@
       "tsp",
       "yukon"
     ],
-    "image_url": "images/rosemary-demi-glace-pork-chops.jpg"
+    "image_url": "images/rosemary-demi-glace-pork-chops.jpg",
+    "premade_sauces": [
+      "Chicken Demi-Glace"
+    ]
   },
   {
     "name": "Italian Chicken over Lemony Spaghetti",
