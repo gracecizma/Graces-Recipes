@@ -5,14 +5,16 @@ A personal database of my favorite recipes — mainly from HelloFresh, plus a ha
 ## Files
 
 - **`Graces_Recipes.html`** — the main app. Open it in any browser to browse, filter, search, and add recipes.
-- **`Graces-Recipes.css`** — The style page. 
+- **`Graces_Recipes.css`** — the style page.
 - **`Graces_Recipes_Backup.json`** — JSON backup of the full recipe dataset.
 - **`Graces_Recipes_Backup.txt`** — plain-text backup, grouped by protein.
-- **`images/`** — local image folder 
+- **`images/`** — local image folder. Every recipe image lives here as a JPG; the HTML references it with a relative path like `images/recipe-name.jpg`.
 
 ## How to use
 
 Just open `Graces_Recipes.html` in a browser. Filter by protein (Chicken, Beef, Pork, Seafood, Vegetarian, etc.), cooking style (Bowl, Flatbread, Pasta, Risotto…), or cuisine (Italian, Middle Eastern, Mexican, Asian…). Search and filters update dynamically based on what's in the database.
+
+Click **Shop** on any recipe to add it to a shopping cart. Pick a serving size, deselect ingredients you already have on hand, then open the cart for a consolidated shopping list with smart unit conversion (oz rolls up to lb past 16 oz, tsp to TBSP past 3, TBSP to cups past 4 with clean fractions). Recipes that call for a HelloFresh spice blend (e.g., Italian Seasoning, Southwest, Tunisian) or a HelloFresh proprietary sauce (e.g., Cream Sauce Base, Tex-Mex Paste, Sweet Soy Glaze) get a DIY breakdown — and those component spices/ingredients can be individually deselected too, with exclusions remembered across recipes that share a blend or sauce.
 
 There's also an in-page **"Add a Recipe"** form for adding recipes through the UI without touching code — handy for quick additions. But the saved data only lives in your browser's local copy of the file. To save additions back to the repo, you need to edit the code directly (see below).
 
@@ -25,7 +27,7 @@ Each recipe is one object in that array. Schema:
 ```javascript
 {
   "name": "Recipe Title",
-  "section": "🐔  Chicken & Poultry",   // emoji + label; pick from existing sections
+  "section": "Chicken & Poultry",        // plain label; pick from existing sections
   "subtitle": "with Couscous & Roasted Carrots",
   "prep_time": "10 min",
   "cook_time": "30 min",
@@ -41,9 +43,13 @@ Each recipe is one object in that array. Schema:
   "categories": ["Rice Bowl"],
   "cultures":   ["Middle Eastern"],
   "ing_words":  ["chicken", "rice", "lemon"],  // lowercase keywords for search
-  "image_url":  "https://media.hellofresh.com/.../image.jpg"
+  "image_url":  "images/recipe-title.jpg",     // relative path to local image in images/
+  "spice_blends":   ["Italian Seasoning"],     // optional — keys from window.SPICE_BLENDS
+  "premade_sauces": ["Cream Sauce Base"]       // optional — keys from window.SAUCES
 }
 ```
+
+`spice_blends` and `premade_sauces` are both optional arrays. Add them only when the recipe calls for a HelloFresh blend or proprietary sauce — the app will hide the rolled-up ingredient line and show a DIY breakdown (component spices / substitute ingredients) instead. The exact strings have to match keys defined in `window.SPICE_BLENDS` and `window.SAUCES` near the top of the script section.
 
 ### Workflow: pull → branch → edit → commit → push → PR
 
@@ -94,7 +100,7 @@ Same flow without the terminal:
 
 ### Quick fix without a PR
 
-For tiny tweaks (typo fixes, image URL updates), you can also just commit straight to `main` and push — no branch needed. Reserve branches/PRs for bigger additions.
+For tiny tweaks (typo fixes, swapping a local image, etc.), you can also just commit straight to `main` and push — no branch needed. Reserve branches/PRs for bigger additions.
 
 ## Filter categories
 
